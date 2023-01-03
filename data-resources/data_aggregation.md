@@ -39,16 +39,18 @@ For more detailed information and guidance on how to weigh the risks and benefit
 ## Data aggregation and suppression process 
 
 The flowchart below illustrates a suggested process for aggregating datasets containing PII or PHI to prepare for publication as open data. 
- 
-![](/assets/images/data_aggregation_chart.png)
 
-## Model guidelines for data aggregation and suppression: Connecticut State Department of Education 
+     ![](assets/images/data_aggregation_chart.png)
+
+## Model guidelines for data aggregation and suppression
+
+### Connecticut State Department of Education 
 
 The Connecticut State Department of Education (SDE) has a [helpful document](https://edsight.ct.gov/relatedreports/BDCRE%20Data%20Suppression%20Rules.pdf){:target="_blank"} outlining its data suppression guidelines available on its website. This document discusses when to suppress data in aggregated datasets and may be a helpful starting place for agencies looking to publish private and sensitive data as open data. 
 
 The document provides the following suppression rules: 
 
-## Suppression of Cell Counts: 
+#### Suppression of Cell Counts: 
 
 1.	If any cell is ≤ 5 the value is suppressed (this includes a total). 
 2.	If cell is ≤ 5 and only one value is suppressed in a row or column, the next highest value in that row or column is also suppressed. If there are multiple occurrences of this value, randomly suppress one occurrence. This is referred to as complementary suppression. 
@@ -56,7 +58,7 @@ The document provides the following suppression rules:
 4.	Fields with a value of 0 are not suppressed. 
 5.	All categories by which data are parsed (e.g., race, EL) are presented in report tables even if there are no data for categories.
 
-## Suppression of Computed Statistics: 
+#### Suppression of Computed Statistics: 
 
 When cell counts are small, suppression of statistics (e.g., average, percent of total) protects confidentiality and ensures that statistics based on a very small sample size are not interpreted as equally representative as those based on a sufficiently larger sample size. Suppress a statistic if any one of the following conditions is true: 
 
