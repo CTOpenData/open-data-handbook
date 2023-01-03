@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # Introduction 
 
-This handbook is for Connecticut state employees who want to publish open data on the [CT Open Data Portal](https://data.ct.gov/ target="_blank") and the [CT Geodata Portal](https://geodata.ct.gov/ target="_blank"). It is maintained by the [Data and Policy Analytics](https://portal.ct.gov/datapolicy/ target="_blank") team at the CT Office of Policy and Management.
+This handbook is for Connecticut state employees who want to publish open data on the [CT Open Data Portal](https://data.ct.gov/){:target="_blank"} and the [CT Geodata Portal](https://geodata.ct.gov/){:target="_blank"}. It is maintained by the [Data and Policy Analytics](https://portal.ct.gov/datapolicy/){:target="_blank"} team at the CT Office of Policy and Management.
 
 ## What is open data? 
 
@@ -15,7 +15,7 @@ Open data is data that is:
 * Accessible in a machine-readable format; 
 * Not limited by restrictions of use; 
 * Published at the finest level of detail permitted by law; and 
-* Described clearly in metadata so users can understand the context of the data, any limitations of use, and how to process the data ([CGS Sec 4-67p](https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p  target="_blank")).
+* Described clearly in metadata so users can understand the context of the data, any limitations of use, and how to process the data ([CGS Sec 4-67p](https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p){:target="_blank"}).
 
 ## Open data roles
 
@@ -46,6 +46,6 @@ This handbook also includes detailed guidance on several topics relating to open
 
 This handbook is maintained by the Data and Policy Analytics team in the Office of Policy and Management. We will continue to develop the Open Data Handbook as a resource for publishers of open data in Connecticut state agencies. 
 
-Let us know what other information you’d like to see included in this handbook by emailing [dapa@ct.gov](mailto:dapa@ct.gov) or writing a message in the [Open Data channel](https://teams.microsoft.com/l/channel/19%3aby3J-Sxn821cmhl_aTjmxUfRlz90F7Nzhn20G9zqDOA1%40thread.tacv2/General?groupId=620a4f72-4ad4-43ce-93a4-0079cb317718&tenantId=118b7cfa-a3dd-48b9-b026-31ff69bb738b target="_blank") in Microsoft Teams.
+Let us know what other information you’d like to see included in this handbook by emailing [dapa@ct.gov](mailto:dapa@ct.gov) or writing a message in the [Open Data channel](https://teams.microsoft.com/l/channel/19%3aby3J-Sxn821cmhl_aTjmxUfRlz90F7Nzhn20G9zqDOA1%40thread.tacv2/General?groupId=620a4f72-4ad4-43ce-93a4-0079cb317718&tenantId=118b7cfa-a3dd-48b9-b026-31ff69bb738b){:target="_blank"} in Microsoft Teams.
 
-Connecticut state employees can request to join the Open Data channel using [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=-nyLEd2juUiwJjH_abtzi5L_xJbiJ_5BoyF_jDckfpJUM1JNU0ZMNVhZRFA0MVlYOUdCNjA1TkRTWC4u target="_blank"). 
+Connecticut state employees can request to join the Open Data channel using [this form](https://forms.office.com/Pages/ResponsePage.aspx?id=-nyLEd2juUiwJjH_abtzi5L_xJbiJ_5BoyF_jDckfpJUM1JNU0ZMNVhZRFA0MVlYOUdCNjA1TkRTWC4u){:target="_blank"}. 
