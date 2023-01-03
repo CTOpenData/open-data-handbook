@@ -26,7 +26,7 @@ Data that cannot be published at the individual level can still be published as 
 
 After being aggregated, the data may still risk re-identification if the aggregated groups are too small. In these cases, some data may need to be suppressed, or a higher level of aggregation may be necessary. 
 
-When in doubt about the appropriate level of granularity at which to publish open data, contact the Data and Policy Analytics unit at dapa@ct.gov.
+When in doubt about the appropriate level of granularity at which to publish open data, contact the Data and Policy Analytics unit at [dapa@ct.gov](mailto:dapa@ct.gov).
 
 ## Risks
 
@@ -34,13 +34,13 @@ One of the primary open data privacy concerns is re-identification, or the disco
 
 Seemingly anonymous data can become revealing when combined with other datasets. Following the de-identification guidelines in this guide can mitigate the risks inherent in sharing private and sensitive data publicly. 
 
-For more detailed information and guidance on how to weigh the risks and benefits of publishing government data as open data, see Harvard University’s 2017 report, “Open Data Privacy: A risk-benefit, process oriented approach to sharing and protecting municipal data,” available at http://nrs.harvard.edu/urn-3:HUL.InstRepos:30340010.  
+For more detailed information and guidance on how to weigh the risks and benefits of publishing government data as open data, see Harvard University’s 2017 report, [Open Data Privacy: A risk-benefit, process oriented approach to sharing and protecting municipal data](http://nrs.harvard.edu/urn-3:HUL.InstRepos:30340010){:target="_blank"}.
 
 ## Data aggregation and suppression process 
 
 The flowchart below illustrates a suggested process for aggregating datasets containing PII or PHI to prepare for publication as open data. 
 
-![](../../assets/images/data_aggregation_chart.png)
+![](/assets/data_aggregation_chart.png)
 
 ## Model guidelines for data aggregation and suppression
 
