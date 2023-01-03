@@ -25,6 +25,7 @@ url: "https://ctopendata.github.io/open-data-handbook/" # the base hostname & pr
 
 # Build settings
 theme: just-the-docs
+#remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-default-layout
 
