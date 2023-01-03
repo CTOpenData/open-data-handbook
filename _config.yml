@@ -30,7 +30,14 @@ plugins:
   - jekyll-default-layout
 
 aux_links: # remove if you don't want this link to appear on your pages
-  Template Repository: https://github.com/ctopendata/open-data-handbook
+  CT Open Data Portal: https://data.ct.gov/
+  CT Geodata Portal: https://geodata.ct.gov/
+  Github Repository: https://github.com/ctopendata/open-data-handbook
+
+logo: "/assets/images/CT-Open-Data-Portal-logo.png"
+favicon_ico: "/assets/images/favicon.ico"
+
+search_enabled: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
