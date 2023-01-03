@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Open Data Handbook
+title: Connecticut Open Data Handbook
 description: Open Data Handbook (Draft)
 baseurl: "/open-data-handbook" # the subpath of your site, e.g. /blog
 url: "https://ctopendata.github.io/open-data-handbook/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -34,7 +34,6 @@ aux_links: # remove if you don't want this link to appear on your pages
   CT Geodata Portal: https://geodata.ct.gov/
   Github Repository: https://github.com/ctopendata/open-data-handbook
 
-logo: "/assets/images/CT-Open-Data-Portal-logo.png"
 favicon_ico: "/assets/images/favicon.ico"
 
 search_enabled: true
