@@ -53,6 +53,7 @@ The table below summarizes the metadata element on the CT Open Data Portal. When
 In addition to the dataset metadata (as detailed in the table above), data publishers should also provide “column metadata,” or descriptions of the columns in the dataset. Especially when column names are not easily understood by users not familiar with the dataset, data publishers should provide short column descriptions in the metadata. Additional technical documentation can be provided as an attachment accompanying the dataset.
 
 ## CT Geodata Portal Metadata Schema
+
 The table below summarizes the metadata element on the CT Geodata Portal, adapted from the [ArcGIS Hub documentation](https://doc.arcgis.com/en/hub/content/prepare-your-content.htm){:target="_blank"}. Data publishers should provide as much detail as possible in the metadata, providing the following elements where applicable.
 
 |                             |     Field                |     Definition                                                                                                                                                                                                                                                                                     |     Permitted values    |
@@ -74,4 +75,4 @@ The table below summarizes the metadata element on the CT Geodata Portal, adapte
 
 In addition to providing complete metadata, publishers of data on the CT Geospatial Data Portal can also improve the usability of the data on the Portal by marking their data as authoritative. Designating items as authoritative makes it easier for users to find authoritative items. The ArcGIS Online documentation explains:
 
-> > Organization administrators and those with administrative privileges to update content can specify that an item is authoritative using the Mark as Authoritative button. Items designated as authoritative are identified with an Authoritative badge on the Overview tab. If your organization is verified, items that are shared with everyone (the public) and marked as authoritative display the organization name as the item owner on the Overview tab.
+> Organization administrators and those with administrative privileges to update content can specify that an item is authoritative using the Mark as Authoritative button. Items designated as authoritative are identified with an Authoritative badge on the Overview tab. If your organization is verified, items that are shared with everyone (the public) and marked as authoritative display the organization name as the item owner on the Overview tab.
