@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 1. Identify data to publish
-parent: Data Publication Steps
+parent: Data publication steps
 nav_order: 3
 ---
 
@@ -9,9 +9,9 @@ nav_order: 3
 
 The first step to publishing your agency’s data as open data is to determine which datasets you will publish. Your agency probably maintains many different datasets, so which ones should you publish on the Open Data Portal? 
 
-You should consider all high value data at your agency for publication as open data to the extent permitted by law and subject to privacy, confidentiality, and security restrictions. [Connecticut General Statutes Section 4-67p](https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p target="_blank") provides a detailed definition of high value data; in short, high value data is data that is critical to the operation of the agency. 
+You should consider all high value data at your agency for publication as open data to the extent permitted by law and subject to privacy, confidentiality, and security restrictions. [Connecticut General Statutes Section 4-67p](https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p){:target="_blank"} provides a detailed definition of high value data; in short, high value data is data that is critical to the operation of the agency. 
 
-High value data for executive branch agencies are listed in the [CT Data Catalog](https://data.ct.gov/Government/CT-Data-Catalog/rym6-myq3 target="_blank"). Start by reviewing the high value data listed for your agency. 
+High value data for executive branch agencies are listed in the [CT Data Catalog](https://data.ct.gov/Government/CT-Data-Catalog/rym6-myq3){:target="_blank"}. Start by reviewing the high value data listed for your agency. 
 
 Make sure that all data published as open data: 
 
@@ -37,4 +37,4 @@ When considering what data to publish, consider the equity impact of making the 
 
 Center equity in open data, by considering the perspectives of individuals and communities represented in the data and the social, economic, and racial context. 
 
-For more guidance on centering equity in all stages of the data life cycle, refer to the Actionable Intelligence for Social Policy’s (AISP) [Centering Racial Equity Toolkit](https://aisp.upenn.edu/centering-equity/ target="_blank").
+For more guidance on centering equity in all stages of the data life cycle, refer to the Actionable Intelligence for Social Policy’s (AISP) [Centering Racial Equity Toolkit](https://aisp.upenn.edu/centering-equity/){:target="_blank"}.

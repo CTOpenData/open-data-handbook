@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 3. Create metadata
-parent: Data Publication Steps
+parent: Data publication steps
 nav_order: 5
 ---
 

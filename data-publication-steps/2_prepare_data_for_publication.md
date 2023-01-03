@@ -1,9 +1,10 @@
 ---
 layout: page
 title: 2. Prepare data for publication
-parent: Data Publication Steps
+parent: Data publication steps
 nav_order: 4
 ---
+
 # 2. Prepare data for publication
 
 Once you have identified a dataset and evaluated it to be appropriate for publication as open data, the next step is to prepare the data for publication. 

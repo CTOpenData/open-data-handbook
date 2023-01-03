@@ -1,9 +1,11 @@
 ---
 layout: page
 title: 6. Update and maintain
-parent: Data Publication Steps
+parent: Data publication steps
 nav_order: 8
 ---
+
+# 6. Update and maintain your data 
 
 Once you have published your data as open data, it’s important to keep the data updated according to the update frequency indicated in the metadata. 
 
