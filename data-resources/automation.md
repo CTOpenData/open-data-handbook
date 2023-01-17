@@ -16,13 +16,21 @@ As traffic continues to grow on the Open Data Portal, so does the need to keep d
 
 This section will cover a range of different automation options for the Open Data Portal. The automation tools covered include:
 
-* DataSync, 
-* PilotFish, 
-* Socrata Gateway, 
-* Socrata-py (Python), and 
-* RSocrata (R). 
+* [DataSync](data-resources\data_sync)
+* [PilotFish](data-resources\pilotfish)
+* [Gateway](data-resources\gateway)
+* [Socrata-py](data-resources\socrata-py)
+* [RSocrata](data-resources\rsocrata)
 
-These tools are evaluated on a set of criteria, including the download, set-up, first time use, and regular use difficulty of the automation tool. The criteria are represented by two measures: set-up difficulty (this covers download and set-up) and use difficulty (this covers first time and regular use). Both measures are on a scale from 1 to 5 where 1 requires the least amount of difficulty and 5 the most amount of difficulty. Difficulty ratings are subjective and intended only as a guide. Further information is provided for each tool including resources on where to download these tools from as well as step-by-step directions for preliminary actions and set-up. Multiple tables are also available at the end of the document, which allow for easy comparison of technical aspects within some of the tools.  
+These tools are evaluated on a set of criteria, including the download, set-up, first time use, and regular use difficulty of the automation tool. 
+
+The criteria are represented by two measures: 
+* Set-up difficulty (including download and set-up) and 
+* Use difficulty (including first time and regular use). 
+
+Both measures are on a scale from 1 to 5 where 1 requires the least amount of difficulty and 5 the most amount of difficulty. Difficulty ratings are subjective and intended only as a guide. Further information is provided for each tool including resources on where to download these tools from as well as step-by-step directions for preliminary actions and set-up. 
+
+Multiple tables are also available at the end of this section, which allow for easy comparison of technical aspects within some of the tools.  
 
 {: .note-title }
 > {: .opaque }

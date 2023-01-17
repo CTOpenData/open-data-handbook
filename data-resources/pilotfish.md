@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DataSync
+title: PilotFish
 parent: Automation guidance
 grand_parent: Data resources
 nav_order: 2
