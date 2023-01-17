@@ -3,7 +3,7 @@ layout: page
 title: DataSync
 parent: Automation guidance
 grand-parent: Data resources
-nav_order: 20
+nav_order: 6
 ---
 
 # Automation tool comparison

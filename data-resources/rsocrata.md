@@ -3,7 +3,7 @@ layout: page
 title: DataSync
 parent: Automation guidance
 grand-parent: Data resources
-nav_order: 19
+nav_order: 5
 ---
 
 # RSocrata (R) 

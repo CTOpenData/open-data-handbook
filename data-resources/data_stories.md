@@ -2,7 +2,7 @@
 layout: page
 title: Data stories
 parent: Data resources
-nav_order: 21
+nav_order: 15
 ---
 
 # Data stories 
