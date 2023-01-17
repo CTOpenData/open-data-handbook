@@ -52,10 +52,10 @@ To retire an asset, the process outlined below should be followed by an Open Dat
 
 This policy was developed based on similar policies in other open data programs, including the examples listed below. Guidance from the staff of the Connecticut State Library, and research on data deprecation policies in open data programs from Kathleen Sullivan at the Washington State Library and Andrew Mckenna-Foster from the University of Washington also greatly informed the development of this policy.  
 
-1.	NYC Open Data, “Removing data assets from the Open Data Portal – Process,” https://opendata.cityofnewyork.us/wp-content/uploads/2018/02/Open-Data-Removals-Process-and-Guidelines.pdf.
-2.	NYC Open Data, “Dataset Removals,” https://data.cityofnewyork.us/dataset/Dataset-Removals/tm5c-buy3. 
-3.	Minnesota Geospatial Commons, “Maintaining and Updating your Resources,” https://gisdata.mn.gov/content/?q=help/maintain_resources. 
-4.	Arkansas Office of Information Technology, “Policy Statement: Arkansas Spatial Data Infrastructure (ASDI) Data Loading and Retirement Procedures,” http://www.gis.arkansas.gov/Docs/LAW/AGIO%20Policy%20Statement%20PS-01%20ASDI%20Data%20Loading%20Procedures_rev20190313_FINAL.pdf.
-5.	Delaware FirstMap, “Information Service Change,” https://firstmap.delaware.gov/contentFolder/pdfs/public/FirstMapServiceChangePolicy.pdf.
-6.	Utah Automated Geographic Reference Center, “ SGID Database Policies,” https://gis.utah.gov/about/policy/sgid/.
-7.	Data.texas.gov, “Dataset update schedule,” https://data.texas.gov/stories/s/TDA-Data-Overview-Food-and-Nutrition-Programs-Open/nk79-w2cs/
+1.	NYC Open Data, [Removing data assets from the Open Data Portal – Process](https://opendata.cityofnewyork.us/wp-content/uploads/2018/02/Open-Data-Removals-Process-and-Guidelines.pdf){:target="_blank"}
+2.	NYC Open Data, [Dataset Removals](https://data.cityofnewyork.us/dataset/Dataset-Removals/tm5c-buy3){:target="_blank"}
+3.	Minnesota Geospatial Commons, [Maintaining and Updating your Resources](https://gisdata.mn.gov/content/?q=help/maintain_resources){:target="_blank"}
+4.	Arkansas Office of Information Technology, [Policy Statement: Arkansas Spatial Data Infrastructure (ASDI) Data Loading and Retirement Procedures](http://www.gis.arkansas.gov/Docs/LAW/AGIO%20Policy%20Statement%20PS-01%20ASDI%20Data%20Loading%20Procedures_rev20190313_FINAL.pdf){:target="_blank"}
+5.	Delaware FirstMap, [Information Service Change](https://firstmap.delaware.gov/contentFolder/pdfs/public/FirstMapServiceChangePolicy.pdf){:target="_blank"}
+6.	Utah Automated Geographic Reference Center, [SGID Database Policies](https://gis.utah.gov/about/policy/sgid/){:target="_blank"}
+7.	Data.texas.gov, [Dataset update schedule](https://data.texas.gov/stories/s/TDA-Data-Overview-Food-and-Nutrition-Programs-Open/nk79-w2cs/){:target="_blank"}

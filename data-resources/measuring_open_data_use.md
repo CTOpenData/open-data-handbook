@@ -7,13 +7,13 @@ nav_order: 16
 
 # Measuring open data use 
 
-Measuring open data activity can help agencies understand how their data is being used and what impact it is having. This section provides guidance on how state agencies can measure open data use and quality, as well as how to assess the impact and value of the open datasets they publish. It draws from the [evaluation framework](https://docs.google.com/document/d/1O_M0m35ydqLyYb4YLr35YiJPPcCUnm68g-gu6-hQJvc/edit) designed by DataSF, using three categories of metrics: 1) publishing activity, 2) quality, and 3) use and impact.
+Measuring open data activity can help agencies understand how their data is being used and what impact it is having. This section provides guidance on how state agencies can measure open data use and quality, as well as how to assess the impact and value of the open datasets they publish. It draws from the [evaluation framework](https://docs.google.com/document/d/1O_M0m35ydqLyYb4YLr35YiJPPcCUnm68g-gu6-hQJvc/){:target="_blank"} designed by DataSF, using three categories of metrics: 1) publishing activity, 2) quality, and 3) use and impact.
 
 ## Publishing activity 
 
-Executive branch agencies should maintain an open data access plan that details their plan to improve the availability of open data (as required by Section 4-67p of the Connecticut General Statutes).
+Executive branch agencies should maintain an open data access plan that details their plan to improve the availability of open data (as required by [Section 4-67p of the Connecticut General Statutes](https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p){:target="_blank"}).
 
-The template for the open data access plans (available here) asks agencies to list the datasets that they are already publishing as open data in addition to the datasets that they plan to publish. Agencies must list the date each dataset will be made available and the frequency with which it will be updated. The open data access plans can serve as the benchmark against which to measure open data publishing activity by agencies. 
+The template for the open data access plans ([available here](https://portal.ct.gov/-/media/CT-Data/Open-Data-Access-Plan-Form-V2.xlsx)) asks agencies to list the datasets that they are already publishing as open data in addition to the datasets that they plan to publish. Agencies should list the date each dataset will be made available and the frequency with which it will be updated. The open data access plans can serve as the benchmark against which to measure open data publishing activity by agencies. 
 
 Below are four possible metrics to measure publishing activity: 
 
@@ -36,7 +36,7 @@ The metadata standards for data published on the CT Open Data Portal and the CT 
 
 Understanding how open data is used and what impact it is having is the is the most challenging element of open data evaluation. Some metrics of open data use can be accessed through site analytics from Tyler Technologies, Esri, or Google Analytics. 
 
-The [CT Open Data Portal Site Analytics page](https://data.ct.gov/stories/s/y3mx-yu9u) provides analytics on assets published on the CT Open Data Portal, including:
+The [CT Open Data Portal Site Analytics page](https://data.ct.gov/stories/s/y3mx-yu9u){:target="_blank"} provides analytics on assets published on the CT Open Data Portal, including:
 
 * Cumulative downloads and views
 * Downloads, views, API calls over time 

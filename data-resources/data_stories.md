@@ -35,7 +35,7 @@ If the data to be highlighted in the story is not already published on the Open 
 * Format the data in a way that will allow you to update it easily in the future and will work for data analysis and visualization. Typically data in a long format is easiest to update. 
 * Have a plan for keeping the data updated.  
 
-Review the Data Publication Guidelines for more detailed information about how to publish data to the Open Data Portal. 
+Review the [Data Publication](data-publication-steps) section of this handbook for more detailed information about how to publish data to the Open Data Portal. 
 
 ### 4.Draft data story using template.
 
@@ -47,8 +47,6 @@ The data story template includes placeholder text and images to illustrate the s
 * Charts, tables, or maps that highlight data hosted on the Open Data Portal. 
 * Text that describes the trends that you want to highlight in your data. 
 * Links to the relevant datasets on the Open Data Portal. 
-
-Additional style details are provided in the style guide below this sample template.
 
 Tyler Tech has a support article on working with data stories that cover the mechanics of working with data stories: [Creating a Story](https://support.socrata.com/hc/en-us/articles/218691088-Creating-a-Story){:target="_blank"}.
 
@@ -80,7 +78,7 @@ Agencies are responsible for the accuracy of their published data and data stori
     * Consider using brand colors, either your agency’s or the state’s, in your charts and maps.
     * Use colors with sufficient contrast and use a palette that is accessible to people who are colorblind
     * Use a [color contrast checker](https://webaim.org/resources/contrastchecker/){:target="_blank"} to ensure high enough contrast ratios. Tools like [Colorsafe](http://colorsafe.co/){:target="_blank"} can help create an accessible color palette. Simulators like [Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/){:target="_blank"} can show what your color scheme might look like to somebody who is colorblind.  
-    *Don’t try to communicate a point exclusively through the use of color. Instead, include text (such as direct labels) that explains what each element represents.  
+    * Don’t try to communicate a point exclusively through the use of color. Instead, include text (such as direct labels) that explains what each element represents.  
     * Avoid using gender or racial color stereotypes (for example, using baby pink and baby blue to represent women and men).
 
 ### 2. Images 
@@ -108,7 +106,7 @@ Screenshot of how to add alternative text in a data story.
     * Be concise. 
     * Avoid jargon. 
     * Shorten your sentences and paragraphs. 
-2. **People-centered language**. As a general rule, when referring to a person or group of people, start with the person, not the characteristic. For instance, “person who is incarcerated” rather than “inmate.”  
+2. **People-centered language**. When referring to a person or group of people, start with the person, not the characteristic. For instance, “person who is incarcerated” rather than “inmate.”  
     * When creating data visualizations and writing about groups of people, do some research about the preferred terms of those who you are writing about. 
     * Consider how to portray missing data and consider alternatives to a generic “other” category. That can contribute to perceptions of exclusion or omission, “us” versus “them” thinking, and othering underrepresented groups. 
 
