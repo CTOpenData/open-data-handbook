@@ -30,17 +30,23 @@ Some key roles associated with publishing data on the CT Open Data Portal and th
 
 ## How to use this handbook 
 
-This handbook walks through the steps for publishing data to the CT Open Data Portal and the CT Geodata Portal. Data publishers can use these steps as a reference when publishing open data. 
+This handbook walks through the steps for publishing data to the CT Open Data Portal and the CT Geodata Portal. Data publishers can use these steps as a reference when publishing open data. The steps for publishing open data include:
+
+1. [Identify data to publish](data-publication-steps\1_identify_data_to_publish)
+2. [Prepare data for publication](data-publication-steps\2_prepare_data_for_publication)
+3. [Create metadata](data-publication-steps\3_create_metadata)
+4. [Upload data](data-publication-steps\4_upload_data)
+6. [Update and maintain](data-publication-steps\6_update_and_maintain)
 
 This handbook also includes detailed guidance on several topics relating to open data including: 
 
-* Preparing and formatting data,
-* Aggregating data,
-* Automating data update,
-* Writing clear metadata,
-* Developing data stories,
-* Measuring open data use, and
-* Retiring old data that are no longer being maintained.
+* [Preparing and formatting data](data-resources\data_preparation_and_formatting)
+* [Aggregating data](data-resources\data_aggregation)
+* [Automating data updates](data-resources\automation)
+* [Writing clear metadata](data-resources\metadata_standards)
+* [Developing data stories](data-resources\data_stories)
+* [Measuring open data use](data-resources\measuring_open_data_use)
+* [Retiring old data that are no longer being maintained](data-resources\data_retirement)
 
 ## Get in touch!
 
