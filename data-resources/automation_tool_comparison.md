@@ -16,7 +16,20 @@ These tables are from a Socrata support document, which is available in the Socr
 ![](../assets/automation_5.png)
 
 ## Automation Tool Comparison 
-| Method    | Pros                                                                                                                                                                                                                                                                                                                                                                | Cons                                                                                                                                                                                                                                                                                                                                      |
-|-----------|--------------------------------------------|--------------------------------------------|
-| Gateway   | * Once scheduling is set up, it will run automatically up to once a day. * Supports a wide variety of data sources, including the US Census. * Connections are created and managed through the Dataset Management Experience. * Transforms, geocoding, and datatypes are easy to set in the Dataset Management Experience. | * Users must install software on their own computer or server. * The user environment (source system/machine/network factors) can affect the ease of setup. * The user manages the connection. * Can only replace data; appending data is not currently possible.                                        |
-| DataSync  | * Provides a basic user interface command tool. * Used to import CSV files from a computer. Can import files over 4 GB. * Can be used to replace all rows, append or upsert rows, or to delete rows. * Used for "port jobs" - an easy way to copy Socrata datasets within or between domains. * Can be run headlessly. | * Free Socrata software, but it resides off the platform. * Requires Java 8 (or newer) and installing DataSync, a small java application, on the user's machine. * Must be scheduled by an external tool - Windows task manager, for example. * No transforms are applied to data imported via DataSync  |
+| **Method** | **Pros** | **Cons** | 
+| ----------- | ----------- | ----------- |
+| Gateway | <ul>Once scheduling is set up, it will run automatically up to once a day.</ul> 
+<ul>Supports a wide variety of data sources, including the US Census.</ul>
+<ul>Connections are created and managed through the Dataset Management Experience.</ul> 
+<ul>Transforms, geocoding, and datatypes are easy to set in the Dataset Management Experience.</ul>  | <ul>Users must install software on their own computer or server.</ul> 
+<ul>The user environment (source system/machine/network factors) can affect the ease of setup.</ul>  
+<ul>The user manages the connection.</ul> 
+<ul>Can only replace data; appending data is not currently possible.</ul>  | 
+| DataSync | <ul>Provides a basic user interface command tool.</ul> 
+<ul>Used to import CSV files from a computer. Can import files over 4 GB.</ul> 
+<ul>Can be used to replace all rows, append or upsert rows, or to delete rows.</ul> 
+<ul>Used for "port jobs" - an easy way to copy Socrata datasets within or between domains.</ul> 
+<ul>Can be run headlessly.</ul> | <ul>Free Socrata software, but it resides off the platform.</ul> 
+<ul>Requires Java 8 (or newer) and installing DataSync, a small java application, on the user's machine.</ul> 
+<ul>Must be scheduled by an external tool - Windows task manager, for example.</ul> 
+<ul>No transforms are applied to data imported via DataSync.</ul> | 
