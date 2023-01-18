@@ -13,10 +13,10 @@ On the CT Open Data Portal, whether or not the dataset is up-to-date is calculat
 
 On the CT Open Data Portal and the CT Geodata Portal, updates to data can be made manually through the user interface of the platform or they can be automated so the data is updated programmatically on a regular basis. 
 
+If a dataset is updated more frequently than quarterly, we recommend automating the data updates rather than updating the data manually. 
+
 {: .note-title }
 > {: .opaque }
 >💡 **More guidance**
 >
 >More detail about how to automate data updates can be found in the [Automation Guidelines](data-resources\automation) section of this handbook. 
-
-If a dataset is updated more frequently than quarterly, we recommend automating the data updates rather than updating the data manually. 

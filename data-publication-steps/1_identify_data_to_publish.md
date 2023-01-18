@@ -19,19 +19,19 @@ You should consider all high value data at your agency for publication as open d
 
 Make sure that all data published as open data: 
 
-- [ ] Belongs to your agency; 
-- [ ] Has no fees for access, adaptation, or use of the data; 
-- [ ] Is free from legal, contract, or policy restrictions; and
-- [ ] Does not violate the privacy of individuals represented in the data.
+* Belongs to your agency; 
+* Has no fees for access, adaptation, or use of the data; 
+* Is free from legal, contract, or policy restrictions; and
+* Does not violate the privacy of individuals represented in the data.
 
 Prioritize publishing data that is:
 
-- [ ] Subject to reactive disclosure through right-to-know, freedom of information, and/or public records laws; 
-- [ ] Shared with other agencies for operational purposes; 
-- [ ] Used for reports on federal, state, or nonprofit grants; 
-- [ ] Used by your agency for trend, statistical, or performance analysis; 
-- [ ] Frequently requested by the public or other government agencies; and/or 
-- [ ] Considered high impact and high value by your agency, partner agencies, the public, and other stakeholders, especially if that data is not already publicly available in a machine-readable format. 
+* Subject to reactive disclosure through right-to-know, freedom of information, and/or public records laws; 
+* Shared with other agencies for operational purposes; 
+* Used for reports on federal, state, or nonprofit grants; 
+* Used by your agency for trend, statistical, or performance analysis; 
+* Frequently requested by the public or other government agencies; and/or 
+* Considered high impact and high value by your agency, partner agencies, the public, and other stakeholders, especially if that data is not already publicly available in a machine-readable format. 
 
 Remember that your agency retains ownership and responsibility for this data regardless of whether it is published on the Open Data Portal. 
 
