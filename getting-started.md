@@ -6,7 +6,7 @@ nav_order: 2
 
 # Getting started with open data
 
-If you're new to open data, this page can help you get started. After reviewing this page, you can learn more about the process for publishing open data in the [Data Publication Steps](data-publication-steps\0_data_publication_steps_intro) section of this handbook, and you can find detailed guidance on other open data topics in the [Open Data Resources](data-resources\data_resources_intro.md) section.
+If you're new to open data, this page can help you get started. After reviewing this page, you can learn more about the process for publishing open data in the [Data Publication Steps](data-publication-steps\0_data_publication_steps_intro) section of this handbook, and you can find detailed guidance on other open data topics in the [Open Data Resources](data-resources\data_resources_intro) section.
 
 ## Get familiar with the CT Open Data Portal and the Geodata Portal
 
