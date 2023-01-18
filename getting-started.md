@@ -26,7 +26,7 @@ If you don't already have an account on the Open Data Portal or the Geodata Port
 
 ## Review the sections of this handbook that are relevant to your open data goals 
 
-If you're planning to publish new data, make sure to review the [Data Publication Steps](data-publication-steps\0_data_publication_steps_intro) and [Detailed Data Publication Steps](data-resources\detailed_data_publication_steps) sections. If you'll be working on a data story, check out the [Data Story](data-resources\data_stories) section. To learn how to automate data updates to the Open Data Portal, review the [Automation](data-resources\automation.mddata-resources\automation) section. Check out all the sections of the handbook using the navigation panel on the left of the screen.
+If you're planning to publish new data, make sure to review the [Data Publication Steps](data-publication-steps\0_data_publication_steps_intro) and [Detailed Data Publication Steps](data-resources\detailed_data_publication_steps) sections. If you'll be working on a data story, check out the [Data Story](data-resources\data_stories) section. To learn how to automate data updates to the Open Data Portal, review the [Automation](data-resources\automation) section. Check out all the sections of the handbook using the navigation panel on the left of the screen.
 
 ## Ask questions!
 
