@@ -51,7 +51,6 @@ The data story template includes placeholder text and images to illustrate the s
 Tyler Tech has a support article on working with data stories that cover the mechanics of working with data stories: [Creating a Story](https://support.socrata.com/hc/en-us/articles/218691088-Creating-a-Story){:target="_blank"}.
 
 ![Data Story Template screenshot](../assets/data_story_1.png)
-Screenshot of the data story template on the Open Data Portal.
 
 ### 5. Develop data visualizations for the data story. 
 
@@ -86,8 +85,7 @@ Agencies are responsible for the accuracy of their published data and data stori
 1. **Alternative text descriptions**: Use alternative text for embedded images or data visualizations. Alternative text should convey how the image relates to the content of the data story. It is read aloud by screen readers, is indexed by search engines, and displays on the page if the image fails to load.  
     * When embedding content into data stories, enter the alternative text in the text box labeled “Title Attribute (optional).”
 
-![](../assets/data_story_2.png)
-Screenshot of how to add alternative text in a data story.
+![Screenshot of how to add alternative text in a data story](../assets/data_story_2.png)
 
 ### 3. Text
 

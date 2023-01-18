@@ -41,7 +41,6 @@ For more detailed information and guidance on how to weigh the risks and benefit
 The flowchart below illustrates a suggested process for aggregating datasets containing PII or PHI to prepare for publication as open data. 
 
 ![Flow chart illustrating process for determining how to aggregate data before publishing as open data](../assets/data_aggregation_chart.png)
-Flow chart showing data aggregation decision making process
 
 ## Model guidelines for data aggregation and suppression
 
