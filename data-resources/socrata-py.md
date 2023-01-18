@@ -15,7 +15,7 @@ The Socrata-py package provides Socrata methods and automation capabilities usin
 ## How it works
 Socrata-py is a Socrata generated Python file that the user can run on a scheduled basis using a task scheduler such as Windows Task Scheduler. Before accessing the Python file, the user must set up environment variables on their local machine for their Socrata username and password. Once this preliminary step is taken, the user can simply create their new dataset on the Open Data Portal and click the “Automate This” button in the Data Preview window. 
 
-![](../assets/automation_4.png)
+![Automate This tool in the Open Data Portal](../assets/automation_4.png)
 
 Socrata provides update and replace capabilities, which will generate a unique Python script for your dataset and the chosen update function (update or replace). The user can then copy this code from the Open Data Portal, paste it into a text editor (such as Notepad), and save the file using the Python (py) extension. 
 

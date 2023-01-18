@@ -31,8 +31,8 @@ To download PilotFish, visit the following link and click the red â€œFree Trialâ
 ## Process Overview  
 Once you have PilotFish downloaded, visit the following link for an extensive collection of documentation provided by PilotFish [here](https://cms.pilotfishtechnology.com/?_ga=2.258813642.1784563989.1627481862-1295223994.1623077406){:target="_blank"}. 
 
-![](../assets/automation_2.png)
+![PilotFish GUI](../assets/automation_2.png)
 Basic PilotFish route from flat file (CSV) to data set on the Open Data Portal
 
-![](../assets/automation_3.png)
+![PilotFish transport configuration](../assets/automation_3.png)
 Required information to create connection to data set on the Open Data Portal

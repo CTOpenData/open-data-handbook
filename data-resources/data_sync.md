@@ -37,5 +37,5 @@ DataSync is a great tool for someone who is looking to simply update a dataset. 
 4.	Click the “Map fields” button to check that the columns from your dataset in Step 1 map to the correct columns in the dataset on the Open Data Portal. 
 5.	Enter in the required information (domain, username, password) in the fields at the bottom. The domain will be https://data.ct.gov, and the username is your email for accessing the Open Data Portal and the password is your Open Data Portal password. 
 
-![](../assets/automation_1.png)
+![DataSync GUI](../assets/automation_1.png)
 Screenshot of the DataSync GUI 

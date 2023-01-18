@@ -50,7 +50,7 @@ The data story template includes placeholder text and images to illustrate the s
 
 Tyler Tech has a support article on working with data stories that cover the mechanics of working with data stories: [Creating a Story](https://support.socrata.com/hc/en-us/articles/218691088-Creating-a-Story){:target="_blank"}.
 
-![](../assets/data_story_1.png)
+![Data Story Template screenshot](../assets/data_story_1.png)
 Screenshot of the data story template on the Open Data Portal.
 
 ### 5. Develop data visualizations for the data story. 
@@ -129,7 +129,6 @@ Screenshot of how to add alternative text in a data story.
 ### 7. Linking multiple pages 
 
 1. It can be useful to organize content across multiple data story pages and link them together. This approach is especially useful when your data story includes many different visualizations that can be organized by topic. 
-2. The data story template includes sample navigation at the top of the page to illustrate where the linked pages could appear if appropriate. 
 
 ## Resources
 
