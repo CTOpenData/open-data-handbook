@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data stories
-parent: Data resources
+parent: Open data resources
 nav_order: 15
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Measuring open data use
-parent: Data resources
+parent: Open data resources
 nav_order: 16
 ---
 

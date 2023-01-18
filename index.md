@@ -40,13 +40,13 @@ This handbook walks through the steps for publishing data to the CT Open Data Po
 
 This handbook also includes detailed guidance on several topics relating to open data including: 
 
-1. [Preparing and formatting data](data-resources\data_preparation_and_formatting)
-2. [Aggregating data](data-resources\data_aggregation)
-3. [Automating data updates](data-resources\automation)
-4. [Writing clear metadata](data-resources\metadata_standards)
-5. [Developing data stories](data-resources\data_stories)
-6. [Measuring open data use](data-resources\measuring_open_data_use)
-7. [Retiring old data that are no longer being maintained](data-resources\data_retirement)
+1. [Preparing and formatting data](open-data-resources\data_preparation_and_formatting)
+2. [Aggregating data](open-data-resources\data_aggregation)
+3. [Automating data updates](open-data-resources\automation)
+4. [Writing clear metadata](open-data-resources\metadata_standards)
+5. [Developing data stories](open-data-resources\data_stories)
+6. [Measuring open data use](open-data-resources\measuring_open_data_use)
+7. [Retiring old data that are no longer being maintained](open-data-resources\data_retirement)
 
 ## Get in touch!
 

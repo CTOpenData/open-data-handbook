@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data resources
+title: Open data resources
 has_children: true
 nav_order: 9
 ---

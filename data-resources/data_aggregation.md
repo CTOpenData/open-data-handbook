@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data aggregation
-parent: Data resources
+parent: Open data resources
 nav_order: 10
 ---
 
