@@ -2,7 +2,7 @@
 layout: page
 title: 5. Review and get approval
 parent: Data Publication Steps
-nav_order: 7
+nav_order: 8
 ---
 
 # 5. Review and get approval 

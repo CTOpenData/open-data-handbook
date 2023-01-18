@@ -2,7 +2,7 @@
 layout: page
 title: 2. Prepare data for publication
 parent: Data publication steps
-nav_order: 4
+nav_order: 5
 ---
 
 # 2. Prepare data for publication

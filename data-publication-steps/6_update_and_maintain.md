@@ -2,7 +2,7 @@
 layout: page
 title: 6. Update and maintain
 parent: Data publication steps
-nav_order: 8
+nav_order: 9
 ---
 
 # 6. Update and maintain your data 

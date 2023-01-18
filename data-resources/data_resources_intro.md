@@ -2,7 +2,7 @@
 layout: page
 title: Open data resources
 has_children: true
-nav_order: 9
+nav_order: 10
 ---
 
 This section of the handbook provides guidance on topics related to open data. 

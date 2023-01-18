@@ -2,7 +2,7 @@
 layout: page
 title: Detailed data publication steps
 parent: Open data resources
-nav_order: 13
+nav_order: 14
 ---
 
 # Detailed data publication steps 
