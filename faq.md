@@ -11,6 +11,7 @@ nav_order: 18
 Open data is data that can be freely used, reused, and redistributed without legal or financial restrictions. A more detailed definition is included in the [Connecticut General Statutes Sec. 4-67p](https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p){:target="_blank"}).
 
 **How can I get started on the Open Data Portal?**
+
 Get familiar with the Open Data Portal--Browse the Open Data Portal to get familiar with how it's set up. Check out the homepage, the data catalog, a dataset, and a data story to get a sense of the types of content published on the Portal. 
 
 Request an account--Determine how you will be using the Open Data Portal. To review datasets, metadata, or data stories? To publish or update datasets? To manage automated data updates? Contact a site administrator by emailing [dapa@ct.gov](mailto:dapa@ct.gov) to request an account on the Portal. 
