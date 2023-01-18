@@ -25,7 +25,7 @@ These tables are from a Socrata support document, which is available in the Socr
 | FME                     | Off platform                  | High       |  Yes            |  Off platform |  Yes                         |  None                   |
 
 ## Automation Tool Comparison 
-| **Method ** | **Pros **                                                                                     | **Cons **                                                                                                 |
+| Method | Pros                                                                                     | Cons                                                                                                 |
 |-------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | Gateway     | Once scheduling is set up,   it will run automatically up to once a day.                      | Users must install software on   their own computer or server.                                            |
 |             | Supports a wide variety of data   sources, including the US Census.                           | The user environment (source   system/machine/network factors) can affect the ease of setup.              |
