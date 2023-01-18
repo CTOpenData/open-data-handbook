@@ -30,8 +30,6 @@ The criteria are represented by two measures:
 
 Both measures are on a scale from 1 to 5 where 1 requires the least amount of difficulty and 5 the most amount of difficulty. Difficulty ratings are subjective and intended only as a guide. Further information is provided for each tool including resources on where to download these tools from as well as step-by-step directions for preliminary actions and set-up. 
 
-Multiple tables are also available at the end of this section, which allow for easy comparison of technical aspects within some of the tools.  
-
 {: .note-title }
 > {: .opaque }
 >💡 **A note on accounts on the CT Open Data Portal**
