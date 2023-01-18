@@ -39,7 +39,7 @@ For more guidance on what to publish see the [Identify Data to Publish](data-pub
 
 **How can I make a data story?** 
 
-Data stories are pages on the CT Open Data Portal that highlight insights from open data through data, visualizations, and narrative. You can learn more about data stories in the [Data Stories](open-data-resources\data_stories) section of the handbook.
+Data stories are pages on the CT Open Data Portal that highlight insights from open data through data, visualizations, and narrative. You can learn more about data stories in the [Data Stories](data-resources\data_stories) section of the handbook.
 
 **Who can I contact for more information?**
 
