@@ -27,4 +27,4 @@ When publishing data as open data use the checklist below to make sure your meta
 > {: .opaque }
 >💡 **More guidance**
 >
->Detailed information about the metadata schema on the CT Open Data Portal and the CT Geodata Portal is available in the [Metadata Standard](/open-data-handbook/data-resources/metadata_standards) section of this handbook.
+>Detailed information about the metadata schema on the CT Open Data Portal and the CT Geodata Portal is available in the [Metadata Standards](/open-data-handbook/data-resources/metadata_standards) section of this handbook.
