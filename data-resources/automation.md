@@ -16,11 +16,11 @@ As traffic continues to grow on the Open Data Portal, so does the need to keep d
 
 This section will cover a range of different automation options for the Open Data Portal. The automation tools covered include:
 
-* [DataSync](/data-resources/data_sync)
-* [PilotFish](/data-resources/pilotfish)
-* [Gateway](/data-resources/gateway)
-* [Socrata-py](/data-resources/socrata-py)
-* [RSocrata](/data-resources/rsocrata)
+* [DataSync](/open-data-handbook/data-resources/data_sync)
+* [PilotFish](/open-data-handbook/data-resources/pilotfish)
+* [Gateway](/open-data-handbook/data-resources/gateway)
+* [Socrata-py](/open-data-handbook/data-resources/socrata-py)
+* [RSocrata](/open-data-handbook/data-resources/rsocrata)
 
 These tools are evaluated on a set of criteria, including the download, set-up, first time use, and regular use difficulty of the automation tool. 
 

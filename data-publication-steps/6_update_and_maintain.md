@@ -19,4 +19,4 @@ If a dataset is updated more frequently than quarterly, we recommend automating 
 > {: .opaque }
 >💡 **More guidance**
 >
->More detail about how to automate data updates can be found in the [Automation Guidelines](/data-resources/automation) section of this handbook. 
+>More detail about how to automate data updates can be found in the [Automation Guidelines](/open-data-handbook/data-resources/automation) section of this handbook. 
