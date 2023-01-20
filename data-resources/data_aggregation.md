@@ -5,7 +5,7 @@ parent: Open data resources
 nav_order: 11
 ---
 
-# Data aggrergation
+# Data aggregation
 
 When making agency data available to the public, agencies must balance the goal of transparency with the need to protect individual privacy. This section provides guidance on how to aggregate data to protect the privacy of individuals whose information is represented in state data. 
 
