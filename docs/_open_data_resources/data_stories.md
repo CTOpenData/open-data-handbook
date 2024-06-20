@@ -35,7 +35,7 @@ If the data to be highlighted in the story is not already published on the Open 
 * Format the data in a way that will allow you to update it easily in the future and will work for data analysis and visualization. Typically data in a long format is easiest to update. 
 * Have a plan for keeping the data updated.  
 
-Review the [Data Publication](data_publication_steps/identify_data_to_publish) section of this handbook for more detailed information about how to publish data to the Open Data Portal. 
+Review the [Data Publication](/open-data-handbook/data_publication_steps/identify_data_to_publish) section of this handbook for more detailed information about how to publish data to the Open Data Portal. 
 
 ### 4.Draft data story using template.
 
