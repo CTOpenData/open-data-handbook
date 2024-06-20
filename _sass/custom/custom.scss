@@ -182,9 +182,21 @@ a:not([class]) {
     color: #3371E7;  
 }
 
+.nav-list .nav-list-item {
+    color: #FFFFFF;  
+}
+
 .nav-list .nav-list-item .nav-list-expander {
     color: #FFFFFF;  
 }
+
+.nav-list-expander {
+    color: #FFFFFF;
+  }
+
+.nav-list-expander:hover {
+    color: #FFFFFF;
+  }
 
 .nav-category {
     font-size: 1.2rem !important;
