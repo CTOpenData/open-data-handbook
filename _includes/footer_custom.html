@@ -1,0 +1,33 @@
+<div class="footer-navigation-links">
+    {% if page.previous %}
+  
+    <a class="footer-navigation-link footer-navigation-link--previous" href="{{ site.baseurl }}{{ page.previous.permalink }}">
+      <svg class="footer-navigation-link__icon" viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg>
+      <span class="footer-navigation-link__sublabel">{{ site.footer_navigation.previous[site.active_lang] }}</span>
+      <span class="footer-navigation-link__label">{{ page.previous.title }}</span>
+    </a>
+  
+    {% endif %} {% if page.next %}
+  
+    <a class="footer-navigation-link footer-navigation-link--next" href="{{ site.baseurl }}{{ page.next.permalink }}">
+      <svg class="footer-navigation-link__icon" viewBox="0 0 24 24"><use xlink:href="#svg-arrow-right"></use></svg>
+      <span class="footer-navigation-link__sublabel">{{ site.footer_navigation.next[site.active_lang] }}</span>
+      <span class="footer-navigation-link__label">{{ page.next.title }}</span>
+    </a>
+  
+    {% endif %}
+  </div>
+  <br/>
+  <div class="footer-links">
+    <div class="footer-external-links">
+      <div class="footer-external-link">
+      <a href="https://github.com/CTOpenData/data-visualization-guidelines" target="_blank" rel="noopener noreferrer"
+        >Github Repository</a>
+      </div>
+      <div class="footer-external-link">
+        <a href="https://portal.ct.gov/datapolicy?language=en_US" target="_blank" rel="noopener noreferrer"
+          >Data & Policy Analytics</a>
+        </div>
+  </div>
+  </div>
+  <br/>

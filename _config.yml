@@ -23,24 +23,35 @@ description: A resource for publishers of open data in Connecticut state governm
 baseurl: "/open-data-handbook" # the subpath of your site, e.g. /blog
 url: "https://ctopendata.github.io/open-data-handbook/" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Build settings
-#theme: just-the-docs
-remote_theme: pmarsceill/just-the-docs
-plugins:
-  - jekyll-default-layout
 
-aux_links: # remove if you don't want this link to appear on your pages
-  CT Open Data Portal: https://data.ct.gov/
-  CT Geodata Portal: https://geodata.ct.gov/
-  Github Repository: https://github.com/ctopendata/open-data-handbook
+# URLs
+baseurl: ""
+url: ""
+permalink: pretty
+
+# Languages
+languages: ["en"]
+default_lang: "en"
+
+# Build settings
+theme: just-the-docs
+#remote_theme: pmarsceill/just-the-docs
 
 favicon_ico: "/assets/favicon.ico"
 
 search_enabled: true
 
-callouts:
-  note:
-    color: purple
+nav_external_links: []
+
+footer_external_links:
+  en:
+    - label: Data & Policy Analytics
+      url: https://portal.ct.gov/datapolicy
+
+footer_hosted_with_love:
+  en:
+    label: "GitHub Repository"
+    url: https://github.com/CTOpenData/open-data-handbook
 
 # Exclude from processing.
 # The following items will not be processed, by default.

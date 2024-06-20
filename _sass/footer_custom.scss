@@ -1,0 +1,120 @@
+.footer-navigation-links {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .footer-navigation-link {
+    position: relative;
+    width: calc(50% - 12px);
+    padding: 12px;
+    border: 2px solid #E6E1E8;
+    border-radius: $border-radius;
+    border-radius: $border-radius;
+    box-shadow:
+      0 1px 2px rgba(0, 0, 0, 0.12),
+      0 3px 10px rgba(0, 0, 0, 0.08);
+  
+    &:hover,
+    &:focus {
+      color: darken(#3371E7, 4%);
+      text-decoration: none;
+      background-color: transparent;
+      box-shadow: inset 0 0 0 3px $grey-lt-300;
+  
+      .footer-navigation-link__icon {
+        color: #3371E7;
+      }
+    }
+    &:hover,
+    &:active,
+    &.zeroclipboard-is-hover,
+    &.zeroclipboard-is-active {
+      color: darken(#3371E7, 4%);
+      text-decoration: none;
+      background-color: transparent;
+      box-shadow: inset 0 0 0 3px $grey-lt-300;
+    }
+  
+    &:focus {
+      text-decoration: none;
+      outline: none;
+      box-shadow:
+        inset 0 0 0 2px $grey-dk-100,
+        0 0 0 3px rgba(blue, 0.25);
+    }
+  
+    &:focus:hover,
+    &.selected:focus {
+      box-shadow: inset 0 0 0 2px $grey-dk-100;
+    }
+  }
+  
+  .footer-navigation-link--previous {
+    text-align: right;
+    padding-left: 50px;
+
+    .footer-navigation-link__icon {
+      left: $sp-5;
+      transform: rotateY(180deg);
+    }
+  }
+  
+  .footer-navigation-link--next {
+    margin-left: auto; // Always push to right, even if previous link does not exist
+    text-align: left;
+    padding-right: 50px;
+  
+    .footer-navigation-link__icon {
+      right: $sp-5;
+    }
+  }
+  
+  .footer-navigation-link__icon {
+    position: absolute;
+    top: calc(50% - 12px);
+    width: 24px;
+    height: 24px;
+    color: $grey-lt-300;
+  }
+  
+  .footer-navigation-link__sublabel {
+    display: block;
+    font-size: $font-size-2;
+    color: $grey-dk-200;
+    line-height: 1.2;
+  }
+  
+  .footer-navigation-link__label {
+    display: block;
+    font-weight: 600;
+  }
+  
+  .footer-links {
+    position: bottom;
+    bottom: 0px;
+    margin: 0 !important;
+    margin-top: 10px !important;
+    width: 100%;
+  }
+  
+  .footer-external-links {
+    text-align: right;
+    margin: 0 !important;
+    width: fit-content;
+    float: right;
+  }
+  
+  .footer-external-link {
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
+  
+    &::before {
+      display: none;
+    }
+  }
+  
+  .footer-external-link + .footer-external-link {
+    margin-left: $sp-5;
+  }
