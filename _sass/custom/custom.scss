@@ -149,6 +149,7 @@ h3 {font-weight: 500;}
 h4{font-weight: 500;}
 
 .nav-list-link {
+    font-size: 1rem !important;
     font-weight: 400;
     color: #FFFFFF;
 }
@@ -276,7 +277,7 @@ a.skip-to-main:active {
 }
   
 .nav-list-link.active {
-    background-image: linear-gradient(-90deg, #3371E7 0%, rgba(235, 237, 245, 0.8) 80%, rgba(235, 237, 245, 0) 100%);
+    background-image: linear-gradient(-90deg, #3371E7, #00214D);
 }
 
 // Footer
