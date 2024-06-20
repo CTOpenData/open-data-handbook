@@ -229,6 +229,7 @@ a.skip-to-main:active {
     font-family: 'Poppins', sans-serif;
     font-size: 1.75rem !important;
     font-weight: 500;
+    color: #FFFFFF;
 }
 
 .site-nav {
@@ -252,6 +253,10 @@ a.skip-to-main:active {
         text-align: right;
       }
     }
+}
+
+.side-bar {
+    background-color: #3371E7;
 }
 
 .unsighted {
