@@ -2,7 +2,7 @@
 layout: page
 title: Tool comparison
 parent: Automation guidance
-permalink: /open_data_resources/tool_comparison
+permalink: /open_data_resources/automation_guidance/tool_comparison
 nav_order: 6
 ---
 

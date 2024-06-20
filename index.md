@@ -32,21 +32,22 @@ Some key roles associated with publishing data on the CT Open Data Portal and th
 
 This handbook walks through the steps for publishing data to the CT Open Data Portal and the CT Geodata Portal. Data publishers can use these steps as a reference when publishing open data. The steps for publishing open data include:
 
-1. [Identify data to publish](data-publication-steps\1_identify_data_to_publish)
-2. [Prepare data for publication](data-publication-steps\2_prepare_data_for_publication)
-3. [Create metadata](data-publication-steps\3_create_metadata)
-4. [Upload data](data-publication-steps\4_upload_data)
-6. [Update and maintain](data-publication-steps\6_update_and_maintain)
+1. [Identify data to publish](data_publication_steps\identify_data_to_publish)
+2. [Prepare data for publication](data_publication_steps\prepare_data_for_publication)
+3. [Create metadata](data_publication_steps\create_metadata)
+4. [Upload data](data_publication_steps\upload_data)
+5. [Review and get approval](data_publication_steps\review_and_get_approval)
+6. [Update and maintain](data_publication_steps\update_and_maintain)
 
 This handbook also includes detailed guidance on several topics relating to open data including: 
 
-1. [Preparing and formatting data](/open-data-handbook/data-resources/data_preparation_and_formatting)
-2. [Aggregating data](/open-data-handbook/data-resources/data_aggregation)
-3. [Automating data updates](/open-data-handbook/data-resources/automation)
-4. [Writing clear metadata](/open-data-handbook/data-resources/metadata_standards)
-5. [Developing data stories](/open-data-handbook/data-resources/data_stories)
-6. [Measuring open data use](/open-data-handbook/data-resources/measuring_open_data_use)
-7. [Retiring old data that are no longer being maintained](/open-data-handbook/data-resources/data_retirement)
+1. [Preparing and formatting data](open_data_resources/data_preparation_and_formatting)
+2. [Aggregating data](open_data_resources/data_aggregation)
+3. [Automating data updates](open_data_resources/automation)
+4. [Writing clear metadata](open_data_resources/metadata_standards)
+5. [Developing data stories](open_data_resources/data_stories)
+6. [Measuring open data use](open_data_resources/measuring_open_data_use)
+7. [Retiring old data that are no longer being maintained](open_data_resources/data_retirement)
 
 ## Get in touch!
 
