@@ -231,7 +231,6 @@ a:not([class]) {
     height: 80%; /* Adjust the height of the rectangle on hover */
 }
 
-
 .btn {
     color: #3371E7;  
 }
@@ -261,6 +260,10 @@ a.skip-to-main:active {
 
 .site-header {
     min-height: 8rem;
+}
+
+.site-header:hover {
+    background: #3371E7; 
 }
 
 .site-title {
