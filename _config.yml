@@ -23,7 +23,6 @@ description: A resource for publishers of open data in Connecticut state governm
 baseurl: "/open-data-handbook" # the subpath of your site, e.g. /blog
 url: "https://ctopendata.github.io/open-data-handbook/" # the base hostname & protocol for your site, e.g. http://example.com
 
-
 # URLs
 baseurl: ""
 url: ""
