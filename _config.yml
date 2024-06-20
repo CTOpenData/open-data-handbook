@@ -54,9 +54,6 @@ footer_hosted_with_love:
 
 # Collections
 collections:
-  getting_started:
-    output: true
-    sort_by: nav_order
   data_publication_steps:
     output: true
     sort_by: nav_order
@@ -95,7 +92,7 @@ just_the_docs:
       nav_exclude: false
       search_exclude: false
       nav_fold: false
-    data_resources:
+    open_data_resources:
       name: Open data resources
       nav_exclude: false
       search_exclude: false
