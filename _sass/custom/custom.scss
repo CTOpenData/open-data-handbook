@@ -275,6 +275,10 @@ a.skip-to-main:active {
   word-wrap: normal !important;
 }
   
+.nav-list-link.active {
+    background-image: linear-gradient(-90deg, #3371E7 0%, rgba(235, 237, 245, 0.8) 80%, rgba(235, 237, 245, 0) 100%);
+}
+
 // Footer
 
 .site-footer {
