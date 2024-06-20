@@ -52,6 +52,28 @@ footer_hosted_with_love:
     label: "GitHub Repository"
     url: https://github.com/CTOpenData/open-data-handbook
 
+defaults:
+  - scope:
+      path: "**/*.md"
+      type: "getting-started"
+    values:
+      layout: "default"
+  - scope:
+      path: "**/*.md"
+      type: "data-publication-steps"
+    values:
+      layout: "default"
+  - scope:
+      path: "**/*.md"
+      type: "open-data-resources"
+    values:
+      layout: "default"
+  - scope:
+      path: "**/*.md"
+      type: "other_resources"
+    values:
+      layout: "default"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
