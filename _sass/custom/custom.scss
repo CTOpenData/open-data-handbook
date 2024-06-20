@@ -187,6 +187,7 @@ a:not([class]) {
 }
 
 .nav-category {
+    font-size: 1.3rem !important;
     color: #FFFFFF;  
 }
 
@@ -196,6 +197,10 @@ a:not([class]) {
 
 .nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-expander {
     color: #FFFFFF;  
+}
+
+.nav-list > .nav-list-item > .nav-list-link:hover > .nav-list > .nav-list-item > .nav-list-link.active {    
+    background-image: linear-gradient(-90deg, #3371E7, #00214D);
 }
 
 .btn {
@@ -274,10 +279,6 @@ a.skip-to-main:active {
   position: absolute;
   width: 1px;
   word-wrap: normal !important;
-}
-  
-.nav-list-link.active {
-    background-image: linear-gradient(-90deg, #3371E7, #00214D);
 }
 
 // Footer
