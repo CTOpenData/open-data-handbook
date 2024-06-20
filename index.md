@@ -43,7 +43,7 @@ This handbook also includes detailed guidance on several topics relating to open
 
 1. [Preparing and formatting data](open_data_resources/data_preparation_and_formatting)
 2. [Aggregating data](open_data_resources/data_aggregation)
-3. [Automating data updates](open_data_resources/automation)
+3. [Automating data updates](open_data_resources/automation_guidance)
 4. [Writing clear metadata](open_data_resources/metadata_standards)
 5. [Developing data stories](open_data_resources/data_stories)
 6. [Measuring open data use](open_data_resources/measuring_open_data_use)

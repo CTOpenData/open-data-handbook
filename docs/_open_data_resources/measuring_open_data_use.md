@@ -2,7 +2,7 @@
 layout: page
 title: Measuring open data use
 permalink: /open_data_resources/measuring_open_data_use
-nav_order: 16
+nav_order: 22
 ---
 
 # Measuring open data use 

@@ -3,7 +3,7 @@ layout: page
 title: Tool comparison
 parent: Automation guidance
 permalink: /open_data_resources/automation_guidance/tool_comparison
-nav_order: 6
+nav_order: 20
 ---
 
 # Automation tool comparison

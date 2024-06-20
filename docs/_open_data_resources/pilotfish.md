@@ -3,7 +3,7 @@ layout: page
 title: PilotFish
 parent: Automation guidance
 permalink: /open_data_resources/automation_guidance/pilotfish
-nav_order: 2
+nav_order: 16
 ---
 
 # Pilotfish

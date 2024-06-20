@@ -3,7 +3,7 @@ layout: page
 title: DataSync
 parent: Automation guidance
 permalink: /open_data_resources/automation_guidance/datasync
-nav_order: 1
+nav_order: 15
 ---
 
 # DataSync 

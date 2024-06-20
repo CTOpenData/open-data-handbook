@@ -3,7 +3,7 @@ layout: page
 title: RSocrata
 parent: Automation guidance
 permalink: /open_data_resources/automation_guidance/rsocrata
-nav_order: 5
+nav_order: 19
 ---
 
 # RSocrata (R) 

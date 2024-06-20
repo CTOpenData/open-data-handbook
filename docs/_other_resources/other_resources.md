@@ -2,7 +2,7 @@
 layout: page
 title: Other resources
 permalink: /other_resources
-nav_order: 19
+nav_order: 24
 ---
 
 # Other open data resources

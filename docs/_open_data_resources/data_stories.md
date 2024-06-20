@@ -2,7 +2,7 @@
 layout: page
 title: Data stories
 permalink: /open_data_resources/data_stories
-nav_order: 15
+nav_order: 21
 ---
 
 # Data stories 
@@ -35,7 +35,7 @@ If the data to be highlighted in the story is not already published on the Open 
 * Format the data in a way that will allow you to update it easily in the future and will work for data analysis and visualization. Typically data in a long format is easiest to update. 
 * Have a plan for keeping the data updated.  
 
-Review the [Data Publication](/open-data-handbook/data-publication-steps/0_data_publication_steps_intro) section of this handbook for more detailed information about how to publish data to the Open Data Portal. 
+Review the [Data Publication](data_publication_steps/identify_data_to_publish) section of this handbook for more detailed information about how to publish data to the Open Data Portal. 
 
 ### 4.Draft data story using template.
 
@@ -56,7 +56,7 @@ Tyler Tech has a support article on working with data stories that cover the mec
 
 A number of different data visualization tools can be used to create charts, tables, maps, and other data visualizations to embed in a data story. Data visualizations that are responsive and interactive work best. Consider linking your data visualizations to datasets hosted on the Open Data Portal so that the visualizations update when the underlying data is updated. This allows you to create dashboards that update automatically along with the data. 
 
-Refer to the [Data Visualization Guide](https://portal.ct.gov/-/media/CT-Data/Data-Visualization-Guidelines.pdf){:target="_blank"} for more detailed guidance on developing data visualizations. 
+Refer to the [Data Visualization and Accessibility Guidelines](https://ctopendata.github.io/data-visualization-guidelines/){:target="_blank"} for more detailed guidance on developing data visualizations. 
 
 ### 6. Open Data Coordinator review of data story. 
 
@@ -130,6 +130,6 @@ Agencies are responsible for the accuracy of their published data and data stori
 
 ## Resources
 
-1.	[Data Visualization Guidelines](https://portal.ct.gov/-/media/CT-Data/Data-Visualization-Guidelines.pdf){:target="_blank"}, CT Office of Policy and Management
+1.	[Data Visualization and Accessibility Guidelines](https://ctopendata.github.io/data-visualization-guidelines/){:target="_blank"}, CT Office of Policy and Management
 2.	[Accessibility Compliance](https://portal.ct.gov/en/Training/Knowledge-Base/Accessibility-Compliance){:target="_blank"}, Sitecore
 3.	[Sitecore Style Guide](https://portal.ct.gov/Training/Knowledge-Base/Style-Guide){:target="_blank"}, Sitecore

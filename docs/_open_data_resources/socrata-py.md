@@ -3,7 +3,7 @@ layout: page
 title: Socrata-py
 parent: Automation guidance
 permalink: /open_data_resources/automation_guidance/socrata-py
-nav_order: 4
+nav_order: 18
 ---
 
 # Socrata-py (Python)
