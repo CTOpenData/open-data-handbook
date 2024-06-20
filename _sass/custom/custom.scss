@@ -200,12 +200,30 @@ a:not([class]) {
 }
 
 .nav-list > .nav-list-item > .nav-list-link.active {    
-    background-image: linear-gradient(-90deg,#00214D 60%, #3371E7);
-}
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 4px;
+    height: 0;
+    background-color: #ffffff;
+    transition: height 0.3s;
+    /* Optional: Add a delay to the height animation */
+    transition-delay: 0.1s;}
 
 .nav-list > .nav-list-item > .nav-list-link:hover {    
-    background-image: linear-gradient(-90deg,#00214D 60%, #3371E7);
-}
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 4px;
+    height: 0;
+    background-color: #ffffff;
+    transition: height 0.3s;
+    /* Optional: Add a delay to the height animation */
+    transition-delay: 0.1s;}
 
 .btn {
     color: #3371E7;  
@@ -299,10 +317,10 @@ a.skip-to-main:active {
   
   /* Handle */
   ::-webkit-scrollbar-thumb {
-    background: #555;
+    background: #FFFFFF;
   }
   
   /* Handle on hover */
   ::-webkit-scrollbar-thumb:hover {
-    background: #555;
+    background: #FFFFFF;
   }
