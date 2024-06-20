@@ -15,7 +15,7 @@ You should consider all high value data at your agency for publication as open d
 > {: .opaque }
 >💡 **What to publish**
 >
->High value data for executive branch agencies are listed in the [CT Data Catalog](https://data.ct.gov/Government/CT-Data-Catalog/rym6-myq3){:target="_blank"}. Start by reviewing the high value data listed for your agency. 
+>High value data for executive branch agencies are listed in the [CT High Value Data Inventory](https://data.ct.gov/Government/CT-High-Value-Data-Inventory/rym6-myq3/about_data){:target="_blank"}. Start by reviewing the high value data listed for your agency. 
 
 Make sure that all data published as open data: 
 
