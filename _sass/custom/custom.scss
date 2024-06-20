@@ -200,7 +200,11 @@ a:not([class]) {
 }
 
 .nav-list > .nav-list-item > .nav-list-link.active {    
-    background-image: linear-gradient(-90deg, #3371E7, #00214D);
+    background-image: linear-gradient(-90deg,#00214D, #3371E7);
+}
+
+.nav-list > .nav-list-item > .nav-list-link.hover {    
+    background-image: linear-gradient(-90deg,#00214D, #3371E7);
 }
 
 .btn {
