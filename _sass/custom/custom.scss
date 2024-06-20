@@ -203,7 +203,7 @@ a:not([class]) {
     background-image: linear-gradient(-90deg,#00214D 60%, #3371E7);
 }
 
-.nav-list > .nav-list-item > .nav-list-link.hover {    
+.nav-list > .nav-list-item > .nav-list-link:hover {    
     background-image: linear-gradient(-90deg,#00214D 60%, #3371E7);
 }
 
