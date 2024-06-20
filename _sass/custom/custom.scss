@@ -199,6 +199,13 @@ a:not([class]) {
     color: #FFFFFF;  
 }
 
+.nav-list > .nav-list-item > .nav-list-link.active {  
+    background: #3371E7;
+}
+.nav-list > .nav-list-item > .nav-list-link:hover {   
+    background: #3371E7;
+}
+
 /* Target the navigation link container if any, otherwise use the link class */
 .nav-list-link {
     position: relative; /* Ensure the pseudo-element is positioned relative to the link */
@@ -218,7 +225,6 @@ a:not([class]) {
     width: 4px;
     height: 0;
     background-color: #ffffff; /* Color of the rectangle */
-    transition: height 0.3s ease-in-out; /* Smooth transition */
 }
 
 .nav-list-link:hover::before {
