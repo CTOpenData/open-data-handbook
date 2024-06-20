@@ -52,20 +52,37 @@ footer_hosted_with_love:
     label: "GitHub Repository"
     url: https://github.com/CTOpenData/open-data-handbook
 
+# Collections
+collections:
+  getting_started:
+    output: true
+    sort_by: nav_order
+  data_publication_steps:
+    output: true
+    sort_by: nav_order
+  data_resources:
+    output: true
+    sort_by: nav_order
+  other_resources:
+    output: true
+    sort_by: nav_order
+
+collections_dir: docs
+
 defaults:
   - scope:
       path: "**/*.md"
-      type: "getting-started"
+      type: "getting_started"
     values:
       layout: "default"
   - scope:
       path: "**/*.md"
-      type: "data-publication-steps"
+      type: "data_publication_steps"
     values:
       layout: "default"
   - scope:
       path: "**/*.md"
-      type: "open-data-resources"
+      type: "data_resources"
     values:
       layout: "default"
   - scope:
