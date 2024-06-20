@@ -7,15 +7,17 @@ nav_order: 1
 
 This handbook is for Connecticut state employees who want to publish open data on the [CT Open Data Portal](https://data.ct.gov/){:target="_blank"} and the [CT Geodata Portal](https://geodata.ct.gov/){:target="_blank"}. It is maintained by the [Data and Policy Analytics](https://portal.ct.gov/datapolicy/){:target="_blank"} team at the CT Office of Policy and Management.
 
-## What is open data? 
-
-Open data is data that is: 
-
-* Freely available for download, indexing, and searching;
-* Accessible in a machine-readable format; 
-* Not limited by restrictions of use; 
-* Published at the finest level of detail permitted by law; and 
-* Described clearly in metadata so users can understand the context of the data, any limitations of use, and how to process the data ([CGS Sec 4-67p](https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p){:target="_blank"}).
+{: .note-title }
+> {: .opaque }
+>💡 **What is open data?**
+>
+>Open data is data that is: 
+>
+>* Freely available for download, indexing, and searching;
+>* Accessible in a machine-readable format; 
+>* Not limited by restrictions of use; 
+>* Published at the finest level of detail permitted by law; and 
+>* Described clearly in metadata so users can understand the context of the data, any limitations of use, and how to process the data ([CGS Sec 4-67p](https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p){:target="_blank"}).
 
 ## Open data roles
 
