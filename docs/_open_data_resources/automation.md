@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Automation guidance
-parent: Data resources
-nav_order: 15
+nav_order: 14
 has_children: true
 ---
 

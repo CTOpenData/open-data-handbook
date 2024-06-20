@@ -2,7 +2,6 @@
 layout: page
 title: Tool comparison
 parent: Automation guidance
-grand_parent: Data resources
 nav_order: 6
 ---
 

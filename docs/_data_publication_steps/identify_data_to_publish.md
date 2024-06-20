@@ -1,8 +1,7 @@
 ---
 layout: page
 title: 1. Identify data to publish
-parent: Data publication steps
-nav_order: 4
+nav_order: 3
 ---
 
 # 1. Identify data to publish

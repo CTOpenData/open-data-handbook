@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Introduction
-has_children: true
-nav_order: 10
+nav_order: 9
 ---
 
 This section of the handbook provides guidance on topics related to open data. 

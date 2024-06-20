@@ -2,7 +2,6 @@
 layout: page
 title: DataSync
 parent: Automation guidance
-grand_parent: Data resources
 nav_order: 1
 ---
 

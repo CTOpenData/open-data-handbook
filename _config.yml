@@ -77,7 +77,7 @@ defaults:
       layout: "default"
   - scope:
       path: "**/*.md"
-      type: "data_resources"
+      type: "open_data_resources"
     values:
       layout: "default"
   - scope:
@@ -96,7 +96,7 @@ just_the_docs:
       search_exclude: false
       nav_fold: false
     data_resources:
-      name: Data resources
+      name: Open data resources
       nav_exclude: false
       search_exclude: false
       nav_fold: true

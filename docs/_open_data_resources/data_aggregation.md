@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Data aggregation
-parent: Data resources
-nav_order: 11
+nav_order: 10
 ---
 
 # Data aggregation

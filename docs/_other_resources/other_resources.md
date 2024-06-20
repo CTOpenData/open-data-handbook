@@ -33,6 +33,6 @@ The links below provide more information about GIS data online, including a reso
 
 The resources below can help you get started visualizing open data.
 
-* [Data visualization guidance](https://portal.ct.gov/-/media/CT-Data/data-visualization-guidelines.pdf){:target="_blank"}
+* [CT Data Visualization and Accessibility Guidelines](https://ctopendata.github.io/data-visualization-guidelines/){:target="_blank"}
 * [Datawrapper](https://app.datawrapper.de/){:target="_blank"}
 * [Tableau Public](https://public.tableau.com/app/discover){:target="_blank"}

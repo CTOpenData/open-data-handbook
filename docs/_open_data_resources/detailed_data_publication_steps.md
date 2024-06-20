@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Detailed data publication steps
-parent: Data resources
-nav_order: 14
+nav_order: 13
 ---
 
 # Detailed data publication steps 

@@ -1,8 +1,7 @@
 ---
 layout: page
 title: 4. Upload data
-parent: Data publication steps
-nav_order: 7
+nav_order: 6
 ---
 
 # 4. Upload data 
