@@ -11,7 +11,7 @@ Once you have identified a dataset and evaluated it to be appropriate for public
 
 The steps listed below cover some of the main steps for preparing data for publication as open data. You will need to do additional quality checks that are specific to your data before you begin the steps listed below. 
 
-* If your dataset contains Personally Identifiable Information (PII) or Personal Health Information (PHI), follow your agency’s de-identification guidance when preparing your data for publication. For additional guidance, refer to the [Data Aggregation](open_data_resources/data_aggregation) section of this handbook. 
+* If your dataset contains Personally Identifiable Information (PII) or Personal Health Information (PHI), follow your agency’s de-identification guidance when preparing your data for publication. For additional guidance, refer to the [Data Aggregation](/open-data-handbook/open_data_resources/data_aggregation) section of this handbook. 
 * Check the formatting of your data to ensure that:
     * The data types are consistent within the fields of your dataset. For example, if a field is supposed to contain a date, check that it only contains dates.
     * The data does not include special formatting such as merged cells, footnotes, etc. 
@@ -22,4 +22,4 @@ The steps listed below cover some of the main steps for preparing data for publi
 > {: .opaque }
 >💡 **More guidance**
 >
->Review the [Data Preparation and Formatting](open_data_resources/data_preparation_and_formatting) section for detailed instructions on formatting data for publication. 
+>Review the [Data Preparation and Formatting](/open-data-handbook/open_data_resources/data_preparation_and_formatting) section for detailed instructions on formatting data for publication. 
