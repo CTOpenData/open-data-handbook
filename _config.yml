@@ -60,7 +60,7 @@ collections:
   data_publication_steps:
     output: true
     sort_by: nav_order
-  data_resources:
+  open_data_resources:
     output: true
     sort_by: nav_order
   other_resources:
