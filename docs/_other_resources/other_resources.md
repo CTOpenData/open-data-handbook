@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other open data resources
+title: Other resources
 nav_order: 19
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Metadata standards
-parent: Open data resources
+parent: Data resources
 nav_order: 13
 ---
 

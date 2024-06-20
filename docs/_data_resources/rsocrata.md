@@ -2,7 +2,7 @@
 layout: page
 title: RSocrata
 parent: Automation guidance
-grand_parent: Open data resources
+grand_parent: Data resources
 nav_order: 5
 ---
 

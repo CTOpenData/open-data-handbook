@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data retirement
-parent: Open data resources
+parent: Data resources
 nav_order: 18
 ---
 

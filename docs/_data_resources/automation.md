@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Automation guidance
-parent: Open data resources
+parent: Data resources
 nav_order: 15
 has_children: true
 ---

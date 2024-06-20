@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Data preparation and formatting
-parent: Open data resources
+parent: Data resources
 nav_order: 12
 ---
 
