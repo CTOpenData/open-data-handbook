@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 5. Review and get approval
+permalink: /data_publication_steps/review_and_get_approval
 nav_order: 7
 ---
 

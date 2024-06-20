@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Other resources
+permalink: /other_resources
 nav_order: 19
 ---
 

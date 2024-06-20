@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Data stories
+permalink: /open_data_resources/data_stories
 nav_order: 15
 ---
 

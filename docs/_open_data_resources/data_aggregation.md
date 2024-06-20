@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Data aggregation
+permalink: /open_data_resources/data_aggregation
 nav_order: 10
 ---
 

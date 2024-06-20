@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Detailed data publication steps
+permalink: /open_data_resources/detailed_data_publication_steps
 nav_order: 13
 ---
 

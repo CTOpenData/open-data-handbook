@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Automation guidance
+permalink: /open_data_resources/automation_guidance
 nav_order: 14
 has_children: true
 ---

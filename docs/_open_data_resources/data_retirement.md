@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Data retirement
+permalink: /open_data_resources/data_retirement
 nav_order: 17
 ---
 

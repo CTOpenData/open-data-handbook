@@ -2,6 +2,7 @@
 layout: page
 title: Gateway
 parent: Automation guidance
+permalink: /open_data_resources/automation_guidance/gateway
 nav_order: 3
 ---
 

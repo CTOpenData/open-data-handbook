@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Measuring open data use
+permalink: /open_data_resources/measuring_open_data_use
 nav_order: 16
 ---
 

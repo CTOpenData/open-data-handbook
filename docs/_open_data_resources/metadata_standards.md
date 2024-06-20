@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Metadata standards
+permalink: /open_data_resources/metadata_standards
 nav_order: 12
 ---
 

@@ -2,6 +2,7 @@
 layout: page
 title: Socrata-py
 parent: Automation guidance
+permalink: /open_data_resources/automation_guidance/socrata-py
 nav_order: 4
 ---
 

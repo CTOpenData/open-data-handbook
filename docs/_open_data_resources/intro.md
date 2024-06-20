@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Introduction
+permalink: /open_data_resources/intro
 nav_order: 9
 ---
 

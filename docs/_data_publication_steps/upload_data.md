@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 4. Upload data
+permalink: /data_publication_steps/upload_data
 nav_order: 6
 ---
 

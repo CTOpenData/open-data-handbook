@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 1. Identify data to publish
+permalink: /data_publication_steps/identify_data_to_publish
 nav_order: 3
 ---
 

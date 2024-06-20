@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 2. Prepare data for publication
+permalink: /data_publication_steps/prepare_data_for_publication
 nav_order: 4
 ---
 

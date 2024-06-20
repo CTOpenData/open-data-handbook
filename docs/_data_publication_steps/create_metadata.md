@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 3. Create metadata
+permalink: /data_publication_steps/create_metadata
 nav_order: 5
 ---
 

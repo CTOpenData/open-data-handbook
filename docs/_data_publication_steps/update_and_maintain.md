@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 6. Update and maintain
+permalink: /data_publication_steps/update_and_maintain
 nav_order: 8
 ---
 

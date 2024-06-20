@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Data preparation and formatting
+permalink: /open_data_resources/data_preparation_and_formatting
 nav_order: 11
 ---
 
