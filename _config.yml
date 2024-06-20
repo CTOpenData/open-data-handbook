@@ -72,22 +72,22 @@ collections_dir: docs
 defaults:
   - scope:
       path: "**/*.md"
-      type: "getting_started"
+      type: "getting-started"
     values:
       layout: "default"
   - scope:
       path: "**/*.md"
-      type: "data_publication_steps"
+      type: "data-publication-steps"
     values:
       layout: "default"
   - scope:
       path: "**/*.md"
-      type: "data_resources"
+      type: "data-resources"
     values:
       layout: "default"
   - scope:
       path: "**/*.md"
-      type: "other_resources"
+      type: "other-resources"
     values:
       layout: "default"
 
