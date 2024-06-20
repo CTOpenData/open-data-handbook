@@ -6,7 +6,7 @@ nav_order: 2
 
 # Getting started with open data
 
-If you're new to open data, this page can help you get started. After reviewing this page, you can learn more about the process for publishing open data in the [Data Publication Steps](data_publication_steps/identify_data_to_publish) section of this handbook, and you can find detailed guidance on other open data topics in the [Open Data Resources](open_data_resources/intro) section.
+If you're new to open data, this page can help you get started. After reviewing this page, you can learn more about the process for publishing open data in the [Data Publication Steps](https://ctopendata.github.io/open-data-handbook/data_publication_steps/identify_data_to_publish) section of this handbook, and you can find detailed guidance on other open data topics in the [Open Data Resources](https://ctopendata.github.io/open-data-handbook/open_data_resources/intro) section.
 
 ## Get familiar with the Open Data Portal and the Geodata Portal
 
