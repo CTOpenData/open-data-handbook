@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data resources
+title: Introduction
 has_children: true
 nav_order: 10
 ---

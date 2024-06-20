@@ -72,11 +72,6 @@ collections_dir: docs
 defaults:
   - scope:
       path: "**/*.md"
-      type: "getting_started"
-    values:
-      layout: "default"
-  - scope:
-      path: "**/*.md"
       type: "data_publication_steps"
     values:
       layout: "default"
@@ -95,20 +90,11 @@ just_the_docs:
   # Define which collections are used in just-the-docs
   collections:
     # Reference the "docs" collection
-    getting_started:
-      name: Getting started
-      # Exclude the collection from the navigation
-      # Supports true or false (default)
-      nav_exclude: false
-      # Exclude the collection from the search
-      # Supports true or false (default)
-      search_exclude: false
-      nav_fold: false
     data_publication_steps:
       name: Data publication steps
       nav_exclude: false
       search_exclude: false
-      nav_fold: true
+      nav_fold: false
     data_resources:
       name: Data resources
       nav_exclude: false
