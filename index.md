@@ -18,8 +18,6 @@ This handbook is for Connecticut state employees who want to publish open data o
 >* Not limited by restrictions of use; 
 >* Published at the finest level of detail permitted by law; and 
 >* Described clearly in metadata so users can understand the context of the data, any limitations of use, and how to process the data ([CGS Sec 4-67p](https://www.cga.ct.gov/current/pub/chap_050.htm#sec_4-67p){:target="_blank"}).
->
->In Connecticut state government, agencies make their data available as open data on various platforms, including the CT Open Data Portal and the CT Geodata Portal. These platforms are administered by the Data and Policy Analytics unit in the Office of Policy and Management, in collaboration with data publishers across state agencies.
 
 {: .note-title }
 > {: .opaque }
