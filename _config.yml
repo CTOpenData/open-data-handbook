@@ -72,24 +72,53 @@ collections_dir: docs
 defaults:
   - scope:
       path: "**/*.md"
-      type: "getting-started"
+      type: "getting_started"
     values:
       layout: "default"
   - scope:
       path: "**/*.md"
-      type: "data-publication-steps"
+      type: "data_publication_steps"
     values:
       layout: "default"
   - scope:
       path: "**/*.md"
-      type: "data-resources"
+      type: "data_resources"
     values:
       layout: "default"
   - scope:
       path: "**/*.md"
-      type: "other-resources"
+      type: "other_resources"
     values:
       layout: "default"
+
+just_the_docs:
+  # Define which collections are used in just-the-docs
+  collections:
+    # Reference the "docs" collection
+    getting_started:
+      name: Getting Started
+      # Exclude the collection from the navigation
+      # Supports true or false (default)
+      nav_exclude: false
+      # Exclude the collection from the search
+      # Supports true or false (default)
+      search_exclude: false
+      nav_fold: false
+    data_publication_steps:
+      name: Data Publicatoin Steps
+      nav_exclude: false
+      search_exclude: false
+      nav_fold: true
+    data_resources:
+      name: Data Resources
+      nav_exclude: false
+      search_exclude: false
+      nav_fold: true
+    other_resources:
+      name: Other Resources
+      nav_exclude: false
+      search_exclude: false
+      nav_fold: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
