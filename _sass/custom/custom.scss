@@ -182,6 +182,10 @@ a:not([class]) {
     color: #3371E7;  
 }
 
+.nav-list-item {
+    color: #FFFFFF;  
+}
+
 .nav-list .nav-list-item {
     color: #FFFFFF;  
 }
@@ -191,6 +195,10 @@ a:not([class]) {
 }
 
 .nav-list-expander {
+    color: #FFFFFF;
+  }
+
+ .nav-list-expander:active {
     color: #FFFFFF;
   }
 
