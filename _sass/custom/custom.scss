@@ -251,6 +251,10 @@ a:not([class]) {
     color: #FFFFFF;  
 }
 
+.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-expander .btn-reset:target {
+    color: #FFFFFF;  
+}
+
 .nav-list > .nav-list-item > .nav-list-link.active {  
     background: #3371E7;
 }
@@ -258,7 +262,12 @@ a:not([class]) {
     background: #3371E7;
 }
 
+.nav-list .nav-list-item.active > .nav-list-expander svg {
+    color: #FFFFFF;  
+}
+
 .btn-reset {
+    background: transparent;
     color: #FFFFFF;    
 }
 
