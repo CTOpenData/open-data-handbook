@@ -210,7 +210,6 @@ a:not([class]) {
 
 .nav-list > .nav-list-item > .nav-list-link.active {  
     background: #3371E7;
-    color: #FFFFFF;
 }
 
 .nav-list > .nav-list-item > .nav-list-link:hover {   
@@ -228,6 +227,10 @@ a:not([class]) {
 }
 
 .nav-list.nav-category-list .nav-list-item .nav-list .nav-list-item .nav-list-expander {
+    color: #FFFFFF;
+}
+
+.nav-list.nav-category-list .nav-list-item .nav-list .nav-list-item .nav-list-expander.btn-reset {
     color: #FFFFFF;
 }
 
