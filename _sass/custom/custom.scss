@@ -226,6 +226,10 @@ a:not([class]) {
     color: #FFFFFF;
 }
 
+.nav-list.nav-category-list .nav-list-item .nav-list .nav-list-item .nav-list-expander {
+    color: #FFFFFF;
+}
+
 .nav-category {
     font-size: 1.2rem !important;
     color: #FFFFFF;  
@@ -236,6 +240,14 @@ a:not([class]) {
 }
 
 .nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-expander {
+    color: #FFFFFF;  
+}
+
+.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-expander:hover {
+    color: #FFFFFF;  
+}
+
+.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-expander:active {
     color: #FFFFFF;  
 }
 
