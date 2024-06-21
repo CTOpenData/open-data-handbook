@@ -238,6 +238,22 @@ a:not([class]) {
     background: #3371E7;
 }
 
+.site-button.btn-reset.nav-open {
+    color: #FFFFFF;    
+}
+
+.btn-outline {
+    &:hover,
+    &:active,
+    &.zeroclipboard-is-hover,
+    &.zeroclipboard-is-active {
+      color: darken($link-color, 4%);
+      text-decoration: none;
+      background-color: transparent; /* This keeps the background transparent */
+      box-shadow: none; /* This removes the inset box-shadow */
+    }
+  }
+  
 /* Target the navigation link container if any, otherwise use the link class */
 .nav-list-link {
     position: relative; /* Ensure the pseudo-element is positioned relative to the link */
