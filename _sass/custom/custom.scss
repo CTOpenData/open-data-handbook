@@ -210,19 +210,19 @@ a:not([class]) {
     color: #FFFFFF;
   }
 
- .nav-list-expander:active {
+.nav-list-expander:active {
     color: #FFFFFF;
   }
 
-.nav-list-item .nav-list-expander:hover {
+.nav-list .nav-list-item .nav-list-expander:hover {
     color: #FFFFFF;
   }
 
-.nav-list-item .nav-list-expander .btn-reset {
+.nav-list .nav-list-item .nav-list-expander .btn-reset {
     color: #FFFFFF;
 }
 
-.nav-list-item .nav-list-expander .btn-reset:hover {
+.nav-list .nav-list-item .nav-list-expander .btn-reset:hover {
     color: #FFFFFF;
 }
 
