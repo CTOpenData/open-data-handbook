@@ -210,7 +210,9 @@ a:not([class]) {
 
 .nav-list > .nav-list-item > .nav-list-link.active {  
     background: #3371E7;
+    color: #FFFFFF;
 }
+
 .nav-list > .nav-list-item > .nav-list-link:hover {   
     background: #3371E7;
 }
@@ -228,8 +230,6 @@ a:not([class]) {
 .nav-list.nav-category-list .nav-list-item .nav-list .nav-list-item .nav-list-expander {
     color: #FFFFFF;
 }
-
-
 
 // Navbar menu icon color
 .menu-button .site-button .btn-reset {
