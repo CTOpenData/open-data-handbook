@@ -156,6 +156,7 @@ h4{font-weight: 500;}
 
 // Color
 
+// Link color
 a {
     color: #3371E7;
 }
@@ -170,18 +171,18 @@ a:not([class]) {
     }
   }
 
+// Anchor link color
 .main-content .anchor-heading svg {
     color: #3371E7;
 }
 
-.main-content .anchor-heading svg {
-    color: #3371E7;
-}
+// Icon color
 
 .icon {
     color: #3371E7;  
 }
 
+// Navbar text color 
 .nav-list-item {
     color: #FFFFFF;  
 }
@@ -190,107 +191,14 @@ a:not([class]) {
     color: #FFFFFF;  
 }
 
-.button.nav-list-expander.btn-reset svg {
-    color: #FFFFFF;  
-}
-
-.button.nav-list-expander.btn-reset svg:hover {
-    color: #FFFFFF;  
-}
-
-.button.nav-list-expander.btn-reset svg:active {
-    color: #FFFFFF;  
-}
-
-.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
-    color: #FFFFFF;
-}
-
-.nav-list .nav-list-item {
-    color: #FFFFFF;  
-}
-
-.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-expander {
-    color: #FFFFFF;
-}
-
-.nav-list .nav-list-item .nav-list-expander {
-    color: #FFFFFF;  
-}
-
-.nav-list-expander {
-    color: #FFFFFF;
-  }
-
-.nav-list-expander:active {
-    color: #FFFFFF;
-  }
-
-.nav-list .nav-list-item .nav-list-expander:hover {
-    color: #FFFFFF;
-  }
-
-.nav-list .nav-list-item .nav-list-expander .btn-reset {
-    color: #FFFFFF;
-}
-
-.nav-list .nav-list-item .nav-list-expander .btn-reset:hover {
-    color: #FFFFFF;
-}
-
-.nav-list.nav-category-list .nav-list-item .nav-list .nav-list-item .nav-list-expander {
-    color: #FFFFFF;
-}
-
 .nav-category {
     font-size: 1.2rem !important;
     color: #FFFFFF;  
 }
 
-.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-link {
-    color: #FFFFFF;  
-}
+// Navlist icon color
 
-.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-expander .btn-reset {
-    color: #FFFFFF;  
-}
-
-.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-expander .btn-reset:hover {
-    color: #FFFFFF;  
-}
-
-.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-expander .btn-reset:active {
-    color: #FFFFFF;  
-}
-
-.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-expander .btn-reset:target {
-    color: #FFFFFF;  
-}
-
-.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-expander .btn-reset:visited {
-    color: #FFFFFF;  
-}
-
-.nav-list > .nav-list-item > .nav-list-link.active {  
-    background: #3371E7;
-}
-.nav-list > .nav-list-item > .nav-list-link:hover {   
-    background: #3371E7;
-}
-
-.nav-list .nav-list-item.active > .nav-list-expander svg {
-    color: #FFFFFF;  
-}
-
-.btn-reset {
-    background: transparent;
-    color: #FFFFFF;    
-}
-
-.site-button .btn-reset .nav-open {
-    color: #FFFFFF;    
-}
-
+// Navbar menu icon color
 .menu-button .site-button .btn-reset {
     color: #FFFFFF;    
 }
@@ -311,6 +219,7 @@ a:not([class]) {
     }
   }
 
+// White rectangle effect for nav items on hover
 /* Target the navigation link container if any, otherwise use the link class */
 .nav-list-link {
     position: relative; /* Ensure the pseudo-element is positioned relative to the link */
@@ -336,6 +245,7 @@ a:not([class]) {
     height: 80%; /* Adjust the height of the rectangle on hover */
 }
 
+// Button color
 .btn {
     color: #3371E7;  
 }
@@ -348,6 +258,7 @@ a:not([class]) {
     color: #3371E7; 
 }
 
+// Search icon color
 .search-input:focus + .search-label .search-icon {
     color: #3371E7; 
 }
@@ -356,6 +267,7 @@ a:not([class]) {
     color: #3371E7; 
 }
 
+// Skip to main navigation color
 a.skip-to-main:focus,
 a.skip-to-main:active {
     color: #3371E7; 
@@ -381,6 +293,8 @@ a.skip-to-main:active {
 .site-nav {
     padding-top: 1rem;
 }
+
+// Previous and next buttons
 .post-nav {
     display: flex;
     justify-content: space-between;
@@ -401,21 +315,22 @@ a.skip-to-main:active {
     }
 }
 
+.unsighted {
+    border: 0;
+    clip: rect(1px, 1px, 1px, 1px);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+    word-wrap: normal !important;
+  }
+  
+// Side bar color
 .side-bar {
     background-color: #3371E7;
-}
-
-.unsighted {
-  border: 0;
-  clip: rect(1px, 1px, 1px, 1px);
-  clip-path: inset(50%);
-  height: 1px;
-  margin: -1px;
-  overflow: hidden;
-  padding: 0;
-  position: absolute;
-  width: 1px;
-  word-wrap: normal !important;
 }
 
 // Footer
