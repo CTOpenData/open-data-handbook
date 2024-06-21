@@ -216,8 +216,8 @@ a:not([class]) {
 }
 
 // Navlist icon color
-.button.nav-list-expander.btn-reset svg {
-    color: #FFFFFF;  
+.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-expander {
+    color: #FFFFFF;
 }
 
 // Navbar menu icon color
