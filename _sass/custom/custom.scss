@@ -239,6 +239,14 @@ a:not([class]) {
   }
 
 // White rectangle effect for nav items on hover
+
+.nav-list > .nav-list-item > .nav-list-link.active {  
+    background: #3371E7;
+}
+.nav-list > .nav-list-item > .nav-list-link:hover {   
+    background: #3371E7;
+}
+
 /* Target the navigation link container if any, otherwise use the link class */
 .nav-list-link {
     position: relative; /* Ensure the pseudo-element is positioned relative to the link */
