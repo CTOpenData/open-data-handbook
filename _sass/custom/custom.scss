@@ -215,12 +215,16 @@ a:not([class]) {
     background: #3371E7;
 }
 
-// Navlist icon color
+// Navlist arrow icon color
 .nav-list .nav-list-item .nav-list-expander {
     color: #FFFFFF;  
 }
 
 .nav-list.nav-category-list .nav-list-item .nav-list .nav-list-item .nav-list-expander {
+    color: #FFFFFF;
+}
+
+.nav-list.nav-category-list .nav-list-item .nav-list .nav-list-item .nav-list-expander:hover {
     color: #FFFFFF;
 }
 
