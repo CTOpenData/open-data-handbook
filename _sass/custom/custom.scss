@@ -41,6 +41,11 @@ h1, h2, h3, h4 {
     background-color: #3371E7; /* Define the hover background color */
 }
 
+.nav-list > .nav-list-item > .nav-list-link.active {  
+    background-image: none;
+    background: #3371E7;
+}
+
 .nav-list-item, 
 .nav-list .nav-list-item,
 .nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-link,
