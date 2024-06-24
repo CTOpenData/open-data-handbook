@@ -235,13 +235,14 @@ a:not([class]) {
     color: #FFFFFF;
 }
 
-.nav-list.nav-category-list .nav-list-item .nav-list .nav-list-item .nav-list-expander:hover {
-    color: #FFFFFF;
-}
-
 .nav-list.nav-category-list .nav-list-item .nav-list .nav-list-item .nav-list-expander.btn-reset {
     color: #FFFFFF;
 }
+
+.nav-list .nav-list-item .nav-list-expander svg {
+    color: #FFFFFF;
+}
+
 
 // White rectangle effect for nav items on hover
 
