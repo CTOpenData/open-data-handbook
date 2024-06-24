@@ -218,7 +218,8 @@ a:not([class]) {
 
 // Menu background color 
 .site-button:hover {
-    background-image: linear-gradient(-90deg, #3371E7 25%, rgba(235, 237, 245, 0.8) 100%);
+    background-image: none;
+    background: #3371E7, 10%;
 }
 
 
