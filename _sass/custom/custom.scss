@@ -94,6 +94,11 @@ a:not([class]) {
     color: #3371E7;
 }
 
+// Active navlist arrow icon color
+.nav-list.nav-category-list .nav-list-item .nav-list .nav-list-item .nav-list-expander {
+    color: #FFFFFF;
+}
+
 // Button Colors
 .btn, .btn-outline {
     color: #3371E7;
