@@ -239,6 +239,15 @@ a:not([class]) {
     color: #FFFFFF;
 }
 
+.nav-list-expander.btn-reset:hover {
+    color: #FFFFFF;
+}
+
+.nav-list-expander.btn-reset:active {
+    color: #FFFFFF;
+}
+
+
 // White rectangle effect for nav items on hover
 
 .nav-list > .nav-list-item > .nav-list-link.active {  
