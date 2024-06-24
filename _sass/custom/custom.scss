@@ -235,14 +235,6 @@ a:not([class]) {
     color: #FFFFFF;
 }
 
-.nav-list.nav-category-list .nav-list-item .nav-list .nav-list-item .nav-list-expander:hover {
-    color: #FFFFFF;
-}
-
-.nav-list.nav-category-list .nav-list-item .nav-list .nav-list-item .nav-list-expander:active {
-    color: #FFFFFF;
-}
-
 // White rectangle effect for nav items on hover
 
 .nav-list > .nav-list-item > .nav-list-link.active {  
@@ -275,6 +267,14 @@ a:not([class]) {
 
 .nav-list-link:hover::before {
     height: 80%; /* Adjust the height of the rectangle on hover */
+}
+
+.nav-list.nav-category-list .nav-list-item .nav-list .nav-list-item .nav-list-expander:hover {
+    color: #FFFFFF;
+}
+
+.nav-list.nav-category-list .nav-list-item .nav-list .nav-list-item .nav-list-expander:active {
+    color: #FFFFFF;
 }
 
 // Button color
