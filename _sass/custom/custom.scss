@@ -216,6 +216,12 @@ a:not([class]) {
     color: #FFFFFF;  
 }
 
+// Menu background color 
+.site-button:hover {
+    background-image: linear-gradient(-90deg, #3371E7 25%, rgba(235, 237, 245, 0.8) 100%);
+}
+
+
 // Navlist arrow icon color
 .nav-list .nav-list-item .nav-list-expander {
     color: #FFFFFF;  
