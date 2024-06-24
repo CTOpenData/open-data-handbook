@@ -37,16 +37,14 @@ h1, h2, h3, h4 {
 
 /* Background color change on hover with fade-in effect */
 .nav-list > .nav-list-item > .nav-list-link:hover {   
+    background-image: none;
     background-color: #3371E7; /* Define the hover background color */
 }
 
 .nav-list-item, 
 .nav-list .nav-list-item,
 .nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-link,
-.nav-list > .nav-list-item > .nav-list-link.active {
-    color: #FFFFFF;
-}
-
+.nav-list > .nav-list-item > .nav-list-link.active,
 .nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
     color: #FFFFFF;
 }
