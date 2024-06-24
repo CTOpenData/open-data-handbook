@@ -176,12 +176,6 @@ a:not([class]) {
     color: #3371E7;
 }
 
-// Icon color
-
-.icon {
-    color: #3371E7;  
-}
-
 // Navbar text color 
 .nav-list-item {
     color: #FFFFFF;  
@@ -254,6 +248,11 @@ a:not([class]) {
       box-shadow: none; /* This removes the inset box-shadow */
     }
   }
+
+// Menu icon color
+.menu-button {
+    color: #FFFFFF; 
+}
 
 // White rectangle effect for nav items on hover
 
