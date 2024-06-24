@@ -231,28 +231,13 @@ a:not([class]) {
     background-image: none;
 }
 
-.nav-list.nav-category-list .nav-list-item .nav-list .nav-list-item .nav-list-expander {
-    color: #FFFFFF;
-}
-
-.nav-list.nav-category-list .nav-list-item .nav-list .nav-list-item .nav-list-expander.btn-reset {
-    color: #FFFFFF;
-}
-
-.nav-list .nav-list-item .nav-list-expander svg {
-    color: #FFFFFF;
-}
-
-.nav-list.nav-category-list .nav-list-item.active .nav-list .nav-list-item .nav-list-link {
-    color: #FFFFFF;
-}
-
 // White rectangle effect for nav items on hover
 
 .nav-list > .nav-list-item > .nav-list-link.active {  
     color: #FFFFFF;
     background: #3371E7;
 }
+
 .nav-list > .nav-list-item > .nav-list-link:hover {   
     color: #FFFFFF;
     background: #3371E7;
@@ -260,23 +245,23 @@ a:not([class]) {
 
 /* Target the navigation link container if any, otherwise use the link class */
 .nav-list-link {
+    color: #FFFFFF;
     position: relative; /* Ensure the pseudo-element is positioned relative to the link */
     font-size: 1rem !important;
     font-weight: 400;
-    color: #FFFFFF;
     text-decoration: none; /* Remove underline */
     padding-left: 20px; /* Add padding to make room for the rectangle */
 }
 
 .nav-list-link::before {
     content: '';
+    color: #FFFFFF;
     position: absolute;
     left: 0; /* Position the rectangle on the left */
     top: 50%;
     transform: translateY(-50%);
     width: 4px;
     height: 0;
-    color: #FFFFFF;
     background-color: #ffffff; /* Color of the rectangle */
 }
 
