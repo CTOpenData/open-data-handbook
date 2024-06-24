@@ -250,12 +250,12 @@ a:not([class]) {
 // White rectangle effect for nav items on hover
 
 .nav-list > .nav-list-item > .nav-list-link.active {  
-    background: #3371E7;
     color: #FFFFFF;
+    background: #3371E7;
 }
 .nav-list > .nav-list-item > .nav-list-link:hover {   
-    background: #3371E7;
     color: #FFFFFF;
+    background: #3371E7;
 }
 
 /* Target the navigation link container if any, otherwise use the link class */
@@ -276,10 +276,12 @@ a:not([class]) {
     transform: translateY(-50%);
     width: 4px;
     height: 0;
+    color: #FFFFFF;
     background-color: #ffffff; /* Color of the rectangle */
 }
 
 .nav-list-link:hover::before {
+    color: #FFFFFF;
     height: 80%; /* Adjust the height of the rectangle on hover */
 }
 
