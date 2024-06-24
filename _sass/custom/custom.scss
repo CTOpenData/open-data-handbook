@@ -234,32 +234,6 @@ a:not([class]) {
     color: #FFFFFF;
 }
 
-// Navbar menu icon color
-.menu-button .site-button .btn-reset {
-    color: #FFFFFF;    
-}
-
-.menu-button .site-button {
-    color: #FFFFFF;    
-}
-
-.btn-outline {
-    &:hover,
-    &:active,
-    &.zeroclipboard-is-hover,
-    &.zeroclipboard-is-active {
-      color: darken($link-color, 4%);
-      text-decoration: none;
-      background-color: transparent; /* This keeps the background transparent */
-      box-shadow: none; /* This removes the inset box-shadow */
-    }
-  }
-
-// Menu icon color
-.menu-button {
-    color: #FFFFFF; 
-}
-
 // White rectangle effect for nav items on hover
 
 .nav-list > .nav-list-item > .nav-list-link.active {  
