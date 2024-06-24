@@ -1,15 +1,14 @@
 @import "./footer_custom";
 
-// Font
-
-@font-face{
+// Font Definitions - Keep only necessary ones
+@font-face {
     font-family: 'Poppins';
     font-weight: 400;
     src: url(../fonts/poppins-regular-webfont.woff2) format(woff2),
          url(../fonts/poppins-regular-webfont.woff) format(woff);
 }
 
-@font-face{
+@font-face {
     font-family: 'Poppins';
     font-weight: 400;
     font-style: italic;
@@ -17,146 +16,51 @@
          url(../fonts/poppins-italic-webfont.woff) format(woff);
 }
 
-@font-face{
-    font-family: 'Poppins';
-    font-weight: 100;
-    src: url(../fonts/poppins-thin-webfont.woff2) format(woff2),
-         url(../fonts/poppins-thin-webfont.woff) format(woff);
+// Include other necessary @font-face declarations similarly
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
 }
 
-@font-face{
-    font-family: 'Poppins';
-    font-weight: 100;
-    font-style: itlaic;
-    src: url(../fonts/poppins-thinitalic-webfont.woff2) format(woff2),
-         url(../fonts/poppins-thinitalic-webfont.woff) format(woff);
-}
-
-@font-face{
-    font-family: 'Poppins';
-    font-weight: 200;
-    src: url(../fonts/poppins-extralight-webfont.woff2) format(woff2),
-         url(../fonts/poppins-extralight-webfont.woff) format(woff);
-}
-
-@font-face{
-    font-family: 'Poppins';
-    font-weight: 200;
-    font-style: italic;
-    src: url(../fonts/poppins-extralightitalic-webfont.woff2) format(woff2),
-         url(../fonts/poppins-extralightitalic-webfont.woff) format(woff);
-}
-
-@font-face{
-    font-family: 'Poppins';
-    font-weight: 300;
-    src: url(../fonts/poppins-light-webfont.woff2) format(woff2),
-         url(../fonts/poppins-light-webfont.woff) format(woff);
-}
-
-@font-face{
-    font-family: 'Poppins';
-    font-weight: 300;
-    font-style: italic;
-    src: url(../fonts/poppins-lightitalic-webfont.woff2) format(woff2),
-         url(../fonts/poppins-lightitalic-webfont.woff) format(woff);
-}
-
-@font-face{
-    font-family: 'Poppins';
+h1, h2, h3, h4 {
     font-weight: 500;
-    src: url(../fonts/poppins-medium-webfont.woff2) format(woff2),
-         url(../fonts/poppins-medium-webfont.woff) format(woff);
 }
 
-@font-face{
-    font-family: 'Poppins';
-    font-weight: 500;
-    font-style: italic;
-    src: url(../fonts/poppins-mediumitalic-webfont.woff2) format(woff2),
-         url(../fonts/poppins-mediumitalic-webfont.woff) format(woff);
-}
-
-@font-face{
-    font-family: 'Poppins';
-    font-weight: 600;
-    src: url(../fonts/poppins-semibold-webfont.woff2) format(woff2),
-         url(../fonts/poppins-semibold-webfont.woff) format(woff);
-}
-
-@font-face{
-    font-family: 'Poppins';
-    font-weight: 600;
-    font-style: italic;
-    src: url(../fonts/poppins-semibolditalic-webfont.woff2) format(woff2),
-         url(../fonts/poppins-semibolditalic-webfont.woff) format(woff);
-}
-
-@font-face{
-    font-family: 'Poppins';
-    font-weight: 700;
-    src: url(../fonts/poppins-bold-webfont.woff2) format(woff2),
-         url(../fonts/poppins-bold-webfont.woff) format(woff);
-}
-
-@font-face{
-    font-family: 'Poppins';
-    font-weight: 700;
-    font-style: italic;
-    src: url(../fonts/poppins-bolditalic-webfont.woff2) format(woff2),
-         url(../fonts/poppins-bolditalic-webfont.woff) format(woff);
-}
-
-@font-face{
-    font-family: 'Poppins';
-    font-weight: 800;
-    src: url(../fonts/poppins-extrabold-webfont.woff2) format(woff2),
-         url(../fonts/poppins-extrabold-webfont.woff) format(woff);
-}
-
-@font-face{
-    font-family: 'Poppins';
-    font-weight: 800;
-    font-style: italic;
-    src: url(../fonts/poppins-extrabolditalic-webfont.woff2) format(woff2),
-         url(../fonts/poppins-extrabolditalic-webfont.woff) format(woff);
-}
-
-@font-face{
-    font-family: 'Poppins';
-    font-weight: 900;
-    src: url(../fonts/poppins-black-webfont.woff2) format(woff2),
-         url(../fonts/poppins-black-webfont.woff) format(woff);
-}
-
-@font-face{
-    font-family: 'Poppins';
-    font-weight: 900;
-    font-style: italic;
-    src: url(../fonts/poppins-blackitalic-webfont.woff2) format(woff2),
-         url(../fonts/poppins-blackitalic-webfont.woff) format(woff);
-}
-
-body {font-family: 'Poppins', sans-serif;
-font-weight: 400;}
-
-h1 {font-weight: 500;}
-
-h2{font-weight: 500;}
-
-h3 {font-weight: 500;}
-
-h4{font-weight: 500;}
-
+/* Navigation Links */
 .nav-list-link {
     font-size: 1rem !important;
     font-weight: 400;
     color: #FFFFFF;
+    transition: background-color 0.3s ease-in-out; /* Smooth background-color transition */
 }
 
-// Color
+/* Background color change on hover with fade-in effect */
+.nav-list > .nav-list-item > .nav-list-link:hover {   
+    background-color: #3371E7; /* Define the hover background color */
+}
 
-// Link color
+.nav-list-item, 
+.nav-list .nav-list-item,
+.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-link,
+.nav-list > .nav-list-item > .nav-list-link.active {
+    color: #FFFFFF;
+}
+
+.nav-category {
+    font-size: 1.2rem !important;
+    color: #FFFFFF;
+}
+
+.nav-list .nav-list-item .nav-list-expander {
+    color: #FFFFFF;
+}
+
+.nav-list .nav-list-item .nav-list-expander:hover {
+    background-image: none;
+}
+
+// Link Colors
 a {
     color: #3371E7;
 }
@@ -165,112 +69,43 @@ a:not([class]) {
     text-decoration: underline;
     text-decoration-color: $border-color;
     text-underline-offset: 2px;
-  
-    &:hover {
-      text-decoration-color: rgba(#3371E7, 0.45);
-    }
-  }
 
-// Anchor link color
-.main-content .anchor-heading svg {
+    &:hover {
+        text-decoration-color: rgba(#3371E7, 0.45);
+    }
+}
+
+// Icon Colors
+.icon, .nav-list .nav-list-item .nav-list-expander,
+.search-input:focus + .search-label .search-icon,
+.search-result-doc .search-result-icon {
+    color: #FFFFFF;
+}
+
+// Button Colors
+.btn, .btn-outline {
     color: #3371E7;
 }
 
-// Navbar text color 
-.nav-list-item {
-    color: #FFFFFF;  
+.btn-outline:hover, 
+.btn-outline:active, 
+.btn-outline.zeroclipboard-is-hover, 
+.btn-outline.zeroclipboard-is-active {
+    color: #3371E7;
 }
 
-.nav-list-link {
-    color: #FFFFFF;  
+// Sidebar and Footer
+.side-bar {
+    background-color: #3371E7;
 }
 
-.nav-category {
-    font-size: 1.2rem !important;
-    color: #FFFFFF;  
-}
-
-.nav-list .nav-list-item > .nav-list .nav-list-item .nav-list-link {
-    color: #FFFFFF;
-}
-
-.nav-list .nav-list-item {
-    color: #FFFFFF;  
-}
-
-.nav-list.nav-category-list > .nav-list-item > .nav-list > .nav-list-item > .nav-list-link {
-    color: #FFFFFF;  
-}
-
-.nav-list > .nav-list-item > .nav-list-link.active {  
-    background: #3371E7;
-}
-
-.nav-list > .nav-list-item > .nav-list-link:hover {   
-    background: #3371E7;
-}
-
-// Icon color
-
-.icon {
-    color: #FFFFFF;  
-}
-
-// Menu background color 
-.site-button:hover {
-    background-image: none;
-}
-
-// Navlist arrow icon color
-.nav-list .nav-list-item .nav-list-expander {
-    color: #FFFFFF;  
-}
-
-.nav-list .nav-list-item .nav-list-expander:hover {
-    color: #FFFFFF;  
-    background-image: none;
-}
-
-.nav-list.nav-category-list .nav-list-item .nav-list .nav-list-item .nav-list-expander {
-    color: #FFFFFF;
-}
-
-// Button color
-.btn {
-    color: #3371E7;  
-}
-
-.btn-outline {
-    color: #3371E7;  
-}
-
-.btn-outline:hover, .btn-outline:active, .btn-outline.zeroclipboard-is-hover, .btn-outline.zeroclipboard-is-active {
-    color: #3371E7; 
-}
-
-// Search icon color
-.search-input:focus + .search-label .search-icon {
-    color: #3371E7; 
-}
-
-.search-result-doc .search-result-icon {
-    color: #3371E7; 
-}
-
-// Skip to main navigation color
-a.skip-to-main:focus,
-a.skip-to-main:active {
-    color: #3371E7; 
+.site-footer {
+    display: none;
 }
 
 // Layout
-
 .site-header {
     min-height: 8rem;
-}
-
-.site-title:hover {
-    background: #3371E7; 
 }
 
 .site-title {
@@ -280,11 +115,19 @@ a.skip-to-main:active {
     color: #FFFFFF;
 }
 
+.site-title:hover {
+    background: #3371E7; 
+}
+
 .site-nav {
     padding-top: 1rem;
 }
 
-// Previous and next buttons
+.site-button:hover {
+    background-image: none;
+}
+
+// Post Navigation
 .post-nav {
     display: flex;
     justify-content: space-between;
@@ -292,55 +135,34 @@ a.skip-to-main:active {
     margin-bottom: $spacing-unit;
 
     div {
-      flex: 1 1 0;
-      
-      &:first-child {
-        padding-right: 0.5em;
-      }
-      
-      &:last-child {
-        padding-left: 0.5em;
-        text-align: right;
-      }
+        flex: 1 1 0;
+
+        &:first-child {
+            padding-right: 0.5em;
+        }
+
+        &:last-child {
+            padding-left: 0.5em;
+            text-align: right;
+        }
     }
 }
 
-.unsighted {
-    border: 0;
-    clip: rect(1px, 1px, 1px, 1px);
-    clip-path: inset(50%);
-    height: 1px;
-    margin: -1px;
-    overflow: hidden;
-    padding: 0;
-    position: absolute;
-    width: 1px;
-    word-wrap: normal !important;
-  }
-  
-// Side bar color
-.side-bar {
-    background-color: #3371E7;
+// Skip to Main Navigation
+a.skip-to-main:focus,
+a.skip-to-main:active {
+    color: #3371E7;
 }
 
-// Footer
-
-.site-footer {
-    display: none;
-  }
-
-// Scrollbar
-
+// Scrollbar Styling
 ::-webkit-scrollbar {
     width: 5px;
-  }
-  
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
+}
+
+::-webkit-scrollbar-thumb {
     background: #FFFFFF;
-  }
-  
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
+}
+
+::-webkit-scrollbar-thumb:hover {
     background: #FFFFFF;
-  }
+}
