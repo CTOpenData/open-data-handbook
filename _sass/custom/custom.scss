@@ -190,17 +190,13 @@ a.skip-to-main:active {
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #CCCCCC; /* color of the scroll thumb when hovered */
-}
-
-::-webkit-scrollbar-track {
-    background: #000000; /* color of the scroll track */
+    background: transparent; /* color of the scroll thumb when hovered */
 }
 
 /* Firefox */
 * {
     scrollbar-width: thin; /* scrollbar width: auto, thin, or none */
-    scrollbar-color: #FFFFFF #000000; /* thumb color and track color */
+    scrollbar-color: #FFFFFF transparent; /* thumb color and track color */
 }
 
 /* General */
