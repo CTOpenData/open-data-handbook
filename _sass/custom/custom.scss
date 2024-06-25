@@ -16,6 +16,13 @@
          url(../fonts/poppins-italic-webfont.woff) format(woff);
 }
 
+@font-face{
+    font-family: 'Poppins';
+    font-weight: 500;
+    src: url(../fonts/poppins-medium-webfont.woff2) format(woff2),
+         url(../fonts/poppins-medium-webfont.woff) format(woff);
+}
+
 // Include other necessary @font-face declarations similarly
 
 body {
