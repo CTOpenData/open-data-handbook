@@ -179,14 +179,31 @@ a.skip-to-main:active {
 }
 
 // Scrollbar Styling
+/* Webkit Browsers: Chrome, Edge */
 ::-webkit-scrollbar {
-    width: 5px;
+    width: 5px; /* width of the entire scrollbar */
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #FFFFFF;
+    background: #FFFFFF; /* color of the scroll thumb */
+    border-radius: 10px; /* roundness of the scroll thumb */
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #FFFFFF;
+    background: #CCCCCC; /* color of the scroll thumb when hovered */
+}
+
+::-webkit-scrollbar-track {
+    background: #000000; /* color of the scroll track */
+}
+
+/* Firefox */
+* {
+    scrollbar-width: thin; /* scrollbar width: auto, thin, or none */
+    scrollbar-color: #FFFFFF #000000; /* thumb color and track color */
+}
+
+/* General */
+body {
+    overflow-y: scroll; /* ensures vertical scroll bar is always visible */
 }
