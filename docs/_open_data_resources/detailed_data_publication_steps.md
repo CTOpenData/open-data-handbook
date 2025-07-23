@@ -60,7 +60,7 @@ The steps below walk through the steps of creating a new dataset on the CT Open 
 
     Select “Private” to publish your dataset privately. 
 
-12.	To share your private dataset with reviewers, click the three dots at the top right corner of the published dataset’s landing page and select “Manage Collaborators.” Then enter the names of the people who need to review the dataset before making it public. These individuals will need accounts on the Open Data Portal; contact the Open Data Coordinator to create additional accounts if necessary by emailing [pauline.zaldonis@ct.gov](mailto:pauline.zaldonis@ct.gov). 
+12.	To share your private dataset with reviewers, click the three dots at the top right corner of the published dataset’s landing page and select “Manage Collaborators.” Then enter the names of the people who need to review the dataset before making it public. These individuals will need accounts on the Open Data Portal; contact the Open Data Coordinator to create additional accounts if necessary by emailing [augusta.irechukwu@ct.gov](mailto:augusta.irechukwu@ct.gov). 
 
     ![CT Open Data Portal manage collaborators menu](../assets/pub_steps_10.png)
 
